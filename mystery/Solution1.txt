@@ -1,0 +1,231 @@
+    1  brew install git
+    2  git --version
+    3  brew upgrade git
+    4  git --version
+    5  brew install --cask visual-studio-code
+    6  open ~/.zshrc\n
+    7  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"\n
+    8  open ~/.zshrc
+    9  code ~/.zshrc
+   10  git config --global init.defaultBranch main
+   11  git config --global user.name "semuel1"\n
+   12  git config --global user.email "semuelst1@gmail.com"\n
+   13  git config --global push.default simple\n
+   14  git config --global credential.helper cache\n
+   15  ssh-keygen -t ed25519 -C "semuelst1@gmail.com"
+   16  eval "$(ssh-agent -s)"
+   17  open ~/.ssh/config
+   18  ssh-add -K ~/.ssh/id_ed25519
+   19  pbcopy < ~/.ssh/id_ed25519.pub
+   20  git --version
+   21  mkdir code
+   22  ls
+   23  cd code
+   24  mkdir w1
+   25  cd w1
+   26  mkdir d1
+   27  cd d1
+   28  pwd
+   29  mkdir git_practive
+   30  cd git_practive
+   31  git init
+   32  ls
+   33  ls -a
+   34  touch resume.text
+   35  ls
+   36  git status
+   37  git add resume.text
+   38  git status
+   39  git commit -m 'Initial commit - added the resume'
+   40  echo "Henrys cool project" > resume.text
+   41  cat resume.text
+   42  git status
+   43  git add resume.text
+   44  git commit -m "Added content to my resume"
+   45  git log
+   46  echo 'this is the second line of my resume' >> resume.text
+   47  cat resume.text
+   48  git diff resume.text
+   49  git checkout resume.text
+   50  cat resume.text
+   51  git remote -v
+   52  git remote add origin ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILCXm6AX2qRfCHBoRLn1GSlwXq0jYQ1qsngSznb2lX34 semuelst1@gmail.com\n
+   53  git push -u origin main
+   54  cd
+   55  git status
+   56  ls
+   57  ls code
+   58  cd w1
+   59  ls w1
+   60  ls
+   61  cd code
+   62  ls
+   63  cd d1
+   64  cd w1
+   65  cd d1
+   66  ls
+   67  ls git_practive
+   68  ls
+   69  git remote -v
+   70  git remote add origin git@github.com:semuel1/git_practive.git
+   71  git branch
+   72  ls
+   73  git_practive
+   74  git remote -v
+   75  git remote add origin git@github.com:semuel1/git_practive.git
+   76  git remote -v
+   77  git push -u origin main
+   78  git branch
+   79  cd ..
+   80  ls
+   81  git code git@github.com:semuel1/intro_to_command_line.git
+   82  git clone git@github.com:semuel1/intro_to_command_line.git
+   83  code .
+   84  cd mansion
+   85  cd intro_to_command_line
+   86  cd mansion
+   87  pwd
+   88  ../..
+   89  ls
+   90  cd desktop
+   91  mkdir CodeClass
+   92  git clone git@github.com:semuel1/command-line-murder-mystery.git
+   93  ls 
+   94  ls -la
+   95  ls
+   96  pwd
+   97  cd CodeClass
+   98  ls
+   99  ls -la
+  100  git clone git@github.com:semuel1/command-line-murder-mystery.git
+  101  ls
+  102  cd command-line-murder-mystery
+  103  ls
+  104  code . 
+  105  ls
+  106  mystery
+  107  ls
+  108  cd crimescene
+  109  cd interviews
+  110  ls -a
+  111  cd ..
+  112  ls
+  113  grep 'clue'
+  114  ls
+  115  cd desktop
+  116  ls
+  117  cd command-line-murder-mystery
+  118  ls
+  119  cd mystery
+  120  cd ..
+  121  ls
+  122  cat instructions
+  123  ls
+  124  cat cheatsheet.md
+  125  ls
+  126  cd mystery
+  127  ls
+  128  ls -a
+  129  cd interviews
+  130  grep "Clue"
+  131  cd
+  132  ls
+  133  cd Desktop
+  134  ls
+  135  cd CodeClass
+  136  ls
+  137  cd command-line-murder-mystery
+  138  ls
+  139  cd mystery
+  140  ls
+  141  cd interviews
+  142  cd ..
+  143  grep -i 'CLUE' crimescene
+  144  ls
+  145  cd memberships
+  146  head -n 20 people
+  147  head -n 20 
+  148  cd Desktop/CodeClass
+  149  ls
+  150  cd command-line-murder-mystery
+  151  cd mystery
+  152  ls
+  153  cd memberships
+  154  cd ..
+  155  pwd
+  156  ls
+  157  grep -i "Annabel" people
+  158  cd streets
+  159  ls
+  160  cd line 176
+  161  head -n 173 streets/Mattapan_Street | tail -n 1
+  162  head -n 173
+  163  cd ..
+  164  head -n 173 streets/Mattapan_Street | tail -n 1
+  165  grep "Honda" vehicles
+  166  grep "Blue" vehicles\n
+  167  grep "L337" vehicles\n
+  168  head  "Honda" vehicles
+  169  head "L337" vehicles\n
+  170  head "Blue" vehicles\n
+  171  grep -A 5 "L337" mystery/vehicles\n
+  172  grep -A 5 "L337"\n
+  173  \tgrep -A 5 "L337" mystery/vehicles\n
+  174  ls
+  175  head -A 5 "L337" mystery/vehicles\n
+  176  grep -B 5 "L337" mystery/vehicles\n
+  177  grep -B 5 "L337"\n
+  178  ls\n
+  179  head -A vehicles
+  180  ls
+  181  cat AAA Delta_Skymiles | grep "Annabel"\n
+  182  grep -i "CLUE" crimescene
+  183  grep -i "CLUE" vehicles
+  184  grep -i "CLUE" streets
+  185  grep -i "CLUE" people
+  186  ls
+  187  mkdir Solution
+  188  ls
+  189  cd Solution
+  190  cd ..
+  191  ls
+  192  cd streets
+  193  cat -n Hart_Place
+  194  cat -n Hart_Place | grep 40
+  195  cat -n Hart_Place | grep "40: >> ../.. clues.txt\n
+  196  cat -n Hart_Place | grep "40" >> ../.. clues.txt\n
+  197  cat -n Hart_Place | grep "40" >> ../../clues.txt\n
+  198  cd ..
+  199  cat vehicles | grep -A 5  "L337"
+  200  cat vehicles | grep -A 5  "L337" | grep -A 4 "Blue"
+  201  cat vehicles | grep -A 5  "L337" | grep -A 4 "Blue" | grep -B 1 "6'"
+  202  cat vehicles | grep -A 5  "L337" | grep -A 4 "Honda" | grep -A 4 "Blue" | grep -B 1 "6'"
+  203  ls
+  204  history >> Solution
+  205  ls
+  206  solution
+  207  ls
+  208  code . 
+  209  ls -a
+  210  cd ..
+  211  ls
+  212  history
+  213  ls
+  214  rm Solution
+  215  ls
+  216  solu
+  217  Solution
+  218  touch Solution.txt
+  219  ls
+  220  history >> Solution.txt
+  221  code Solution.txt
+  222  git status
+  223  git add
+  224  ls
+  225  cd ..
+  226  ls
+  227  ls -a
+  228  ls
+  229  touch
+  230  touch Solution1.txt
+  231  ls
