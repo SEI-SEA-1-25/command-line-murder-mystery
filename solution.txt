@@ -1,0 +1,243 @@
+KILLER IS JEREMY BOWERS!!!
+
+
+502* cd command-line-murder-mystery
+  503* ls -la
+  504* ls -a
+  505* cat hint1
+  506* cat hint2
+  507* cd mystery
+  508* ls -a
+  509* head -20 interview
+  510* head -20 interviews
+  511* cd interveiws
+  512* cd interviews
+  513* ls -a
+  514* grep "CLUE" interviews
+  515* cd ..
+  516* grep "CLUE" interviews
+  517* cat interviews
+  518* cd interviews
+  519* ls -a
+  520* ls -la
+  521* cd ..
+  522* ls -a
+  523  grep "CLUE" crimescene
+  524* ls -a
+  525* cat hint1
+  526* ls -a
+  527* head -n 20 people
+  528* cat people
+  529* ls -a
+  530* cd memberships
+  531* ls -la
+  532* ls =a
+  533* open library.txt
+  534* cat hint3
+  535  ls -a
+  536  cd memberships
+  537  ls -a
+  538  head -10 Museum_of_Bash_History
+  539  grep -i "annabel" museum_of_Bash_History
+  540  grep -i "annabel" people
+  541  cd ..
+  542  grep -i "annabel" people
+  543  grep -i "annabel" AAA
+  544  cd memberships
+  545  grep -i "annabel" AAA
+  546  grep -i "annabel" Delta_SkyMiles
+  547  grep -i "annabel" library.txt
+  548  grep -i "annabel" Terminal_City_Library
+  549  cd ..
+  550  ls -a
+  551  cd interviews
+  552  ls -a
+  553  grep -i "annabel" interviews
+  554  cd ..
+  555  grep -i "annabel" interviews
+  556  grep -r "annabel" interviews
+  557  ls -a
+  558  head vehicles
+  559  head -n 25 vehicles
+  560  grep "annabel" vehicles
+  561  grep -i "annabel" vehicles
+  562  grep -A 5 "Annabel Church"
+  563  grep -A 5 "Annabel Church" Vehicles
+  564  cd interviews
+  565  grep -i "annabel"
+  566  grep -i "annabel" interviews
+  567  ls -a
+  568  grep -r "annabel"
+  569  grep -r "annabel" *
+  570  grep -r "Annabel" *
+  571  grep -r "Annabel Church" *
+  572* cat hint4
+  573* cat hint5
+  574  cd streets
+  575  cd ..
+  576  cd streets
+  577  ls -a
+  578  grep "Buckingham Place" *
+  579  grep "Buckingham_Place" *
+  580  head Buckingham_Place
+  581  grep "annabel" Buckingham_Place
+  582  grep "killer" Buckingham_Place
+  583  cd ..
+  584  cd streets
+  585  grep -i "annabel" Buckingham_Place
+  586  cd ..
+  587  ls -a
+  588  grep -i "annabel" people
+  589  grep -i "Oluwasegun Annabel" people
+  590  grep -r "Oluwasegun Annabel" streets
+  591  grep -r "Oluwasegun" interviews
+  592  cd interviews
+  593  grep -r "Oluwasegun" *
+  594  grep -r "Oluwasegun Annabel" *
+  595  grep "Oluwasegun" *
+  596  cd interview-47246024
+  597* cd ..
+  598* cd people
+  599* ls
+  600* cd people
+  601* cat people
+  602* head -12 people
+  603* cat line 390
+  604* cat Walton Street, line 433
+  605* ls
+  606* ls -a
+  607* cd mystery
+  608* ls -a
+  609* cd streets
+  610* cat walton street
+  611* cat walton_street
+  612* ls -a
+  613  cd ..
+  614  grep "173" Mattapan_Street
+  615  cd streets
+  616* cat Mattapan_Street
+  617  head -n 173 streets/Mattapan_Street | tail -n 1
+  618  cd ..
+  619  head -n 173 streets/Mattapan_Street | tail -n 1
+  620  head -n 10 interviews
+  621  cd interview
+  622  cd interviews
+  623* cd ..
+  624* cd interviews
+  625* ls -a
+  626  wc -1 interview-9437737
+  627  head interview-9437737
+  628  head -n 20
+  629  head -n 20 interview-9437737
+  630  tail -n +1 interview-9437737
+  631  head -n 179 streets/Buckingham_Place | tail -n 1
+  632  cd ..
+  633  head -n 179 streets/Buckingham_Place | tail -n 1
+  634  cd interviews
+  635  head -n 50 interview-699607
+  636  cd ..
+  637  grep "Honda" vehicles
+  638  grep -A 5 "L337" Vehicles
+  639  grep -A 5 "L337" | "9" | "Blue" vehicles
+  640  grep -A 5 "L337" | "9" | "Blue" Vehicles
+  641  touch suspect_vehicles.txt
+  642  ls
+  643  cd suspect_vehicles
+  644  echo  "License Plate L337WR9\nMake: Honda\nColor: Blue\nOwner: Jacqui Maher\nHeight: 6'2"\nWeight: 130 lbs"  suspect_vehicles.txt
+  645  echo "Jacqui Maher" suspect_vehicles.txt
+  646  echo "Jeremy Bowers" >> suspect_vehicles.txt
+  647  echo "Joe Germuska" >> suspect_vehicles.txt
+  648  echo "Erika Owens" >> suspect_vehicles.txt
+  649  cat suspect_vehicles.txt
+  650  echo "Jacqui Maher" >> suspect_vehicles.txt
+  651  mv suspect_vehicles.txt suspects.txt
+  652  ls
+  653  cat suspects.txt
+  654* cd ..
+  655* grep Jeremy Bowers People
+  656  grep "Jeremy Bowers" people
+  657  cat memberships
+  658  cd memberships
+  659  ls -a
+  660  grep "Jeremy Bowers" AAA
+  661  grep "Jeremy Bowers" Delta_SkyMiles
+  662  grep "Jeremy Bowers" Terminal_City_Library
+  663  grep "Jeremy Bowers" Museum_of_Bash_History
+  664  head -n 284 streets/Dunstable_Road | tail -n 1
+  665  ls
+  666  cd ..
+  667  cd interviews
+  668  head -n 284 streets/Dunstable_Road | tail -n 1
+  669  cd ..
+  670  cd streets
+  671  head -n 284 streets/Dunstable_Road | tail -n 1
+  672  cd ..
+  673  head -n 284 streets/Dunstable_Road | tail -n 1
+  674  cd interviews
+  675  head -n 50 interview-9620713
+  676  cd ..
+  677  cd memberships
+  678  cd ..
+  679  cat suspects.txt
+  680  cd memberships
+  681  grep "Joe Germuska" AAA
+  682  grep "Joe Germuska" Delta_SkyMiles
+  683  grep "Joe Germuska" Terminal_City_Library
+  684  grep "Joe Germuska" Museum_of_Bash_History
+  685  cd ..
+  686  la -a
+  687  ls -a
+  688  grep "Joe Germuska" people
+  689  cd streets
+  690  head -n 275 streets/Plainfield_Street | tail -n 1
+  691  cd ..
+  692  head -n 275 streets/Plainfield_Street | tail -n 1
+  693  cd interviews
+  694  head -n 50 interview-29741223
+  695  cd ..
+  696  cat suspects.txt
+  697  cd memberships
+  698  grep "Erika Owens" AAA
+  699  grep "Erika Owens" Delta_SkyMiles
+  700  grep "Erika Owens"Terminal_City_Libarary
+  701  grep "Erika Owens" Terminal_City_Library
+  702  grep "Erika Owens" Museum_of_Bash_History
+  703  cd ..
+  704  grep "Erika Owens" People
+  705  head -n 98 streets/Trapelo_Street | tail -n 1
+  706  cd interviews
+  707  head -50 interview-5455315
+  708  cd ..
+  709  cd memberships
+  710  grep "Jacqui Maher" AAA
+  711  grep "Jacqui Maher" Delta_SkyMiles
+  712  grep "Jacqui Maher" Terminal_City_Library
+  713  grep "Jacqui Maher" Museum_of_Bash_History
+  714  cd ..
+  715  grep "Jacqui Maher" people
+  716  cd interviews
+  717  head -224 streets/Andover_Road | tail -n 1
+  718  head -n 224 streets/Andover_Road | tail -n 1
+  719  head -n 224 streets/Andover_road | tail -n 1
+  720  grep "Andover" interviews
+  721  cd ..
+  722  head -n 224 streets/Andover_Road | tail -n 1
+  723  cd interviews
+  724  head -50 interview-904020
+  725  cat interview-904020
+  726* cat hint5
+  727* ls -a
+  728* cd ..
+  729* ls -a
+  730* cat hint5
+  731* cat hint6
+  732* cat hint8
+  733* cat hint9
+  734* cat hint7
+  735  ls -a
+  736  cd ..
+  737  ls -a
+  738  cd ..
+  739  ls -a
+  740  touch solution.txt
+  741  ls -a
