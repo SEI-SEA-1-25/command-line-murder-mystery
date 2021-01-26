@@ -1,0 +1,111 @@
+  249  clone git@github.com:wonkatin/command-line-murder-mystery.git
+  250  git clone git@github.com:wonkatin/command-line-murder-mystery.git
+  251  pwd
+  252  ls
+  253  cd command-line-murder-mystery
+  254  . code
+  255  pwd
+  256  ls
+  257  cd code
+  258  ls
+  259  cd w1
+  260  cd d1
+  261  ls
+  262  cs command-line-murder-mystery
+  263  . code
+  264  pwd
+  265  ls
+  266  cd code
+  267  ls
+  268  cd w1
+  269  cd d1
+  270  ls
+  271  cd command-line-murder-mystery
+  272  ls
+  273  code .
+  274  touch solution.txt
+  275  ls
+  276  cd mystery
+  277  ls
+  278  cd crimescene
+  279  crimescene .
+  280  cat crimescene
+  281  grep -r "CLUE" *
+  282  head -n 100 people
+  283  grep "Anabelle" *
+  284  pwd
+  285  grep "Anabelle" people
+  286  grep "Annabel" people
+  287  grep "Annabel" vehicle
+  288  ls
+  289  grep "Annabel" vehicles
+  290  cat people
+  291  head -n 173 streets/Mattapan_Street | tail -n 1
+  292  ls
+  293  cd interviews
+  294  ls
+  295  cat interview-9437737
+  296  head people.txt | grep "Annabel"
+  297  cd ..
+  298  head people.txt | grep "Annabel"
+  299  ls
+  300  head people.txt
+  301  head people | grep "Annabel"
+  302  head vehicles | grep "Annabel"
+  303  cat people | grep "Annabel"
+  304  head people
+  305  cat vehicles | grep "Annabel"
+  306  head vehicles
+  307  grep "Annabel" vehicles
+  308  grep "Annabel" vehicles | grep "weight"
+  309  grep -A 10 "Annabel" vehicles
+  310  grep -A 10 "Annabel" people
+  311  head -n 40 streets/Hart_Place | tail -n 1
+  312  head vehicle
+  313  head vehicles
+  314  grep "Annabel" vehicles | tail -n 4
+  315  grep -B 4 "Annabel" vehicles
+  316  head -n 179 streets/Buckingham_Place | tail -n 2
+  317  head -n 176 streets/Haley_Street | tail -n 2
+  318  ls
+  319  cd interviews
+  320  cat interview-871877
+  321  cat interview-699607
+  322  cat interview-47246024
+  323  grep -A 5 "L337" mystery/vehicles
+  324  cd ..
+  325  grep -A 5 "L337" mystery/vehicles
+  326  cd ..
+  327  grep -A 5 "L337" mystery/vehicles
+  328  ls
+  329  cd mystery
+  330  ls
+  331  grep "Erika_Owens" people
+  332  grep "Erika" people
+  333  grep "Germuska" people
+  334  grep
+  335  grep "Bowers" people
+  336  grep "Maher" people
+  337  head -n 224  streets/Andover_Road | tail -n 1
+  338  head -n 284 streets/Dunstable_Road | tail -n 1
+  339  head -n 275 streets/Plainfield_Street | tail -n 1
+  340  head -n 98 streets/Trapelo_Street
+  341  ls
+  342  cd interviews
+  343  ls
+  344  cat interview-5455315
+  345  cat interview-29741223
+  346  cat interview-9620713
+  347  cat interview-904020
+  348  ls
+  349  pwd
+  350  cd ..
+  351  ls
+  352  cd memberships
+  353  ls
+  354  grep "Bowers"
+  355  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep -c "Bowers"
+  356  cat AAA D\nelta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Bowers"
+  357  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Bowers"
+
+  Jeremy Bowers
