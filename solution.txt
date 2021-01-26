@@ -1,0 +1,174 @@
+The name of the killer was Jeremy Bowers.
+
+
+
+
+304  git clone git@github.com:soobinkiki/command-line-murder-mystery.git
+  305  pwd
+  306  code .
+  307  ls
+  308  cd code
+  309  ls
+  310  cd w1
+  311  ls
+  312  cd d1
+  313  ls
+  314  cd git_practice
+  315  git clone git@github.com:soobinkiki/command-line-murder-mystery.git
+  316  code .
+  317  pwd
+  318  tree
+  319  pwd
+  320  ls
+  321  cd code
+  322  ls
+  323  cd w1
+  324  cd 1
+  325  cd d1
+  326  cd git_practice
+  327  git clone git@github.com:soobinkiki/command-line-murder-mystery.git
+  328  code .
+  329  cat instructions
+  330  ls\\nls
+  331  cd comdmand-ine-murder-mystery
+  332  cd command-line-murder-mystery
+  333  ls
+  334  tree
+  335  cat instructions
+  336  ls
+  337  cd mystery
+  338  ls
+  339  cd crimescene
+  340  cat crimescene
+  341  ls
+  342  pwd
+  343  touch clues_collected.txt
+  344  ls
+  345  head -n 20 people
+  346  ls
+  347  grep "CLUE"
+  348  grep "CLUE" crimescene
+  349  head people
+  350  head vehicle
+  351  head vehicles
+  352  head -n 20 vehicles
+  353  head -n 100 vehicles
+  354  head -n 200 vehicles
+  355  head people
+  356  o go to the street someone lives on, use the file\nfor that street name in the 'streets' subdirectory.\nTo knock on the door and investigate, read the line number\nthey live on from the file.  If a line looks like gibberish, you're at the wrong house.\n***************
+  357  /ls
+  358  ls
+  359  cd streets
+  360  ls
+  361  cd ..
+  362  ls
+  363  cat people.txt
+  364  cat people
+  365  head -n 20 people
+  366  ls
+  367  cd streets
+  368  ls
+  369  cd ..
+  370  head -n 20 people
+  371  ls
+  372  cat -n vehicles
+  373  cat -n streets
+  374  ls
+  375  cd streets
+  376  cd ..
+  377  cd streets
+  378  ls
+  379  cat -n streets
+  380  /files$ wc -l streets
+  381  \n
+  382  cat Haley_Street
+  383  ls
+  384  cd ..
+  385  ls
+  386  grep "Annabel" people
+  387  ls
+  388  cat vehicles
+  389  cat vehicles | grep "Annabel"
+  390  grep "Church"
+  391  grep "Church" vehicles
+  392  head people
+  393  ls
+  394  cd streets
+  395  ls
+  396  head -n 40 Hart Place
+  397  head -n 40 Hart_Place
+  398  ls
+  399  cd..
+  400  cd ..
+  401  ls
+  402  cd interviews
+  403  ls
+  404  cat interview-47246024
+  405  cd ..
+  406  ls
+  407  cd streets
+  408  ls
+  409  cat Mattapan_Street.txt
+  410  cat -n 173 Mattapan_Street 
+  411  head  -n 173 Mattapan_Street 
+  412  ls
+  413  cd ..
+  414  ls
+  415  cd interviews
+  416  ls
+  417  cat interview-9437737
+  418  cd ..
+  419  ls
+  420  pwd
+  421  ls
+  422  pwd
+  423  cd streets
+  424  ls
+  425  head -n 179 Buckingham_Place 
+  426  pwd
+  427  cd mystery/interviews
+  428  cd ..
+  429  ls
+  430  cd strets
+  431  cd streets
+  432  cd ../interviews
+  433  cat interview-699607
+  434  cd ..
+  435  ls
+  436  cd interviews
+  437  cd ../streets
+  438  ls
+  439  head -n 176 Haley_Street 
+  440  cd ../interviews/
+  441  cat interview-871877
+  442  ls
+  443  cd ../
+  444  cat vehicles
+  445  grep "Oluwasegun" vehicles
+  446  head -n 173 streets/Mattapan_Street | tail -n 1
+  447  ls
+  448  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+  449  d memberships
+  450  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+  451  cd memberships
+  452  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+  453  cat Fitness_Galaxy AAA United_MileagePlus | grep "Heather Billings"
+  454  cat Fitness_Galaxy AAA United_MileagePlus | grep "Joe Germuska"
+  455  cat Fitness_Galaxy AAA United_MileagePlus | grep "Jeremy Bowers"
+  456  cat Fitness_Galaxy AAA United_MileagePlus | grep "Jacqui Maher"
+  457  ls
+  458  cat CFitness_Galaxy AAA United_MileagePlus | grep "Jacqui Maher"
+  459  cat Delta_SkyMiles
+  460  cat Delta_SkyMiles | Grep "Joe Germuska"
+  461  cat Delta_SkyMiles | Grep "Jeremy Bowers"
+  462  ls
+  463  cd ..
+  464  ls
+  465  cd memberships
+  466  cat Museum_of_Bash_History | Grep "Jeremy Bowers"
+  467  cat solution
+  468  cd ..
+  469  ls
+  470  cd ..
+  471  touch solution.txt
+  472  ls

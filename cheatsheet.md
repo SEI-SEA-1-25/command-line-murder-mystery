@@ -7,7 +7,7 @@ You have a prompt, and you can type in a command and hit 'Enter' to execute it. 
 
 	touch newfile.txt
 
-This command will create a file called `newfile.txt`.
+This command will create  faile called `newfile.txt`.
 
 How to access the command line
 ------------------------------
