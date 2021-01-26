@@ -1,0 +1,1405 @@
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    3  $ brew install git-gui 
+    4  $ brew install git
+    5  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    6  pwd
+    7  git --version
+    8  git --version
+    9  git --version
+   10  GA -Blog
+   11  GA-Blog
+   12  get status
+   13  git status
+   14  GA-Blog $Maria
+   15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   16  brue doctor
+   17  brue doctor
+   18  brue doctor
+   19  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   20  rue doctor
+   21  brue doctoor
+   22  brue doctor
+   23  brew install zsh
+   24  brew install zsh
+   25  brew install zsh
+   26  echo $SHELL
+   27  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   28  ZSH=path/to/new/ohmyzsh/folder sh install.sh
+   29  brew install git
+   30  git --version
+   31  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   32  git --version
+   33  brew install git
+   34  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   35  git version
+   36  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   37  brew install git
+   38  git --version
+   39  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   40  brew install git
+   41  git --version
+   42  brew upgrade git
+   43  open ~/.zshrc
+   44  code ~/.zshrc
+   45  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+   46  open ~/.zshrc
+   47  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+   48  ~/.zshrc file
+   49  open ~/.zshrc
+   50  ZSH_THEME="af-magic"
+   51  code ~/.zshrc
+   52  git config --global init.defaultBranch main\ngit config --global user.name "YOUR-USERNAME"\ngit config --global user.email "YOUR-EMAIL-ADDRESS"\ngit config --global push.default simple\ngit config --global credential.helper cache
+   53  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   54  ZSH= sh install.sh
+   55  ZSH=path/to/new/ohmyzsh/folder sh install.sh
+   56  brew install zsh
+   57  chsh -s /bin/zsh
+   58  echo $SHELL
+   59  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   60  brew install git
+   61  git --version
+   62  brew upgrade git
+   63  sudo add-apt-repository ppa:git-core/ppa\nsudo apt update; sudo apt install git
+   64  brew install --cask visual-studio-code
+   65  open ~/.zshrc
+   66  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+   67  ZSH_THEME="af-magic"
+   68  git config --global init.defaultBranch main\ngit config --global user.name "YOUR-USERNAME"\ngit config --global user.email "YOUR-EMAIL-ADDRESS"\ngit config --global push.default simple\ngit config --global credential.helper cache
+   69  $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   70  ~/.zshrc
+   71  ~/.zshrc 
+   72  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   73  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"\n
+   74  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   75  ~ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   76  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   77  xcode-select --install
+   78  brew install --cask iterm2
+   79  brew install zsh
+   80  brew install zsh
+   81  chsh -s /bin/zsh
+   82  0000
+   83  brew install zsh
+   84  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   85  brew install git
+   86  brew install zsh
+   87  brew install --cask iterm2
+   88  xcode-select --install
+   89  brew install zsh
+   90  chsh -s /bin/zsh
+   91  echo $SHELL
+   92  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   93  brew install git
+   94  git --version
+   95  brew upgrade git
+   96  brew install git
+   97  git --version
+   98  brew install git
+   99  git --version
+  100  brew install git
+  101  git --version
+  102  brew upgrade git
+  103  git --version
+  104  brew upgrade git
+  105  git --version
+  106  brew install git
+  107  brew upgrade git
+  108  brew install git
+  109  git --version
+  110  brew upgrade git
+  111  xcode-select --install
+  112  brew install --cask iterm2
+  113  brew install zsh
+  114  chsh -s /bin/zsh
+  115  echo $SHELL
+  116  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  117  brew install git
+  118  git --version
+  119  brew upgrade git
+  120  brew reinstall git
+  121  git --version
+  122  $ brew install git
+  123  git --version
+  124  mkdir code
+  125  ls
+  126  cd code
+  127  /code
+  128  brew install git
+  129  git --version
+  130  brew upgrade git
+  131  brew install --cask visual-studio-code
+  132  open ~/.zshrc
+  133  cd d1
+  134  pwd
+  135  mkdir git_practice
+  136  cd git_practice
+  137  git init
+  138  is
+  139  ls
+  140  touch resume.txt
+  141  ls
+  142  brew install git
+  143  git --version
+  144  brew upgrade git
+  145  ls
+  146  git clone git@github.com:mariiamel/git_practice.git
+  147  brew install --cask visual-studio-code
+  148  open ~/.zshrc
+  149  ZSH_THEME="af-magic"
+  150  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  151  brew install git
+  152  git --version\n
+  153  brew upgrade git
+  154  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  155  brew install git
+  156  brew upgrade git
+  157  ZSH=path/to/new/ohmyzsh/folder sh install.sh
+  158  `ZSH=path/to/new/ohmyzsh/folder sh install.sh`
+  159  git --version
+  160  brew update git
+  161  which brew
+  162  brew -v
+  163  cd usr/local
+  164  which brew
+  165  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  166  xcode-select --install
+  167  brew install --cask iterm2
+  168  cd 
+  169  ls
+  170  cd Desktop
+  171  pwd
+  172  ls
+  173  cd bootcamp
+  174  cd ..
+  175  cd Bootcamp
+  176  ls
+  177  git clone https://github.com/SEI-SEA-1-25/intro_to_command_line.git
+  178  ls
+  179  cd intro_to_command_line
+  180  code .
+  181  cd ..
+  182  ls
+  183  cd mariamelnikova
+  184  ls
+  185  cd Desktop
+  186  ls
+  187  cd Bootcamp
+  188  ls
+  189  cd intro_to_command_line
+  190  code .
+  191  ls
+  192  cd mansion
+  193  ls
+  194  pwd
+  195  ls
+  196  ls -a
+  197  cd entry_hall
+  198  ls
+  199  cd coat_closet
+  200  ls
+  201  touch new_coat.txt
+  202  ls
+  203  cd ..
+  204  ls
+  205  cd east_wing
+  206  ls
+  207  cd dining_room
+  208  ls
+  209  rm sandwich.txt
+  210  ls
+  211  cp -r chair.txt
+  212  ls
+  213  cp -r chair.txt chair_1.txt
+  214  ls
+  215  cp -r chair.txt chair_2.txt
+  216  cp -r chair.txt chair_3.txt
+  217  cp -r chair.txt chair_4.txt
+  218  ls
+  219  cd ..
+  220  ls
+  221  cd guest_bedroom
+  222  ls
+  223  cd ..
+  224  ls
+  225  cd east_wing
+  226  cd ..
+  227  ls
+  228  cd west_wing
+  229  cd ..
+  230  cd west_wing/guest_bedroom
+  231  ls
+  232  cd west_wing
+  233  ls
+  234  cd master_bedroom
+  235  ls
+  236  ls -a
+  237  mv mirror.txt smash_mirror.txt
+  238  ls
+  239  mkdr cardboard_box.txt
+  240  mkdir cardboard_box
+  241  ls
+  242  mv smash_mirror.txt cardboard_box
+  243  ls
+  244  cd cardboard_box
+  245  ls
+  246  cd ..
+  247  ls
+  248  ls -a
+  249  cd .secret_passage
+  250  ls
+  251  ls -a
+  252  mv .family_heirloom.txt master_bedroom
+  253  ls
+  254  rm -rf .secret_page
+  255  cd ..
+  256  pwd
+  257  cd mansion
+  258  cd ..
+  259  dit add
+  260  git add
+  261  git add .
+  262  git commit -m "comments"
+  263  git push -u origin main
+  264  git init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:mariiamel/git_practice.git\ngit push -u origin main
+  265  git push -u origin main
+  266  git status
+  267  git add east_wing/
+  268  git add entry_hall/
+  269  git add west_wing/
+  270  git status
+  271  git commit -m
+  272  git commit -m "comment"
+  273  git status
+  274  git remote -v
+  275  git push origin main
+  276  git push origin master
+  277  git --version
+  278  git update
+  279  brew upgrade git
+  280  brew install git
+  281  git --version
+  282  brew upgrade git
+  283  git --version
+  284  ls
+  285  cd Desktop
+  286  cd Bootcamp
+  287  ls
+  288  cd intro_to_command_line
+  289  git config --global init.defaultBranch main
+  290  git config --global user.name "YOUR-USERNAME"
+  291  git config --global user.name "mariiamel"
+  292  git config --global user.email "mariiamelnikova96@gmail.com"
+  293  git config --global push.default simple
+  294  git config --global credential.helper cache
+  295  git status
+  296  ssh-keygen -t ed25519 -C "mariiamelnikova96@gmail.com"
+  297  eval "$(ssh-agent -s)"\n> Agent pid 59566
+  298  eval "$(ssh-agent -s)"
+  299  open ~/.ssh/config
+  300  cd ..
+  301  touch ~/.ssh/config
+  302  open ~/.ssh/config
+  303  ssh-add -K ~/.ssh/id_ed25519
+  304  pbcopy < ~/.ssh/id_ed25519.pub
+  305  code .
+  306  ls
+  307  la -la
+  308  pwd
+  309  cd .
+  310  ls
+  311  cd .ssh
+  312  ls -a
+  313  cd
+  314  cd intro_command_line
+  315  ls
+  316  cd /desktop/bootcamp/intro_to_command_line
+  317  cd Desktop
+  318  cd Bootcamp
+  319  cd intro_to_command_line
+  320  ls -a
+  321  cd ~
+  322  cd code
+  323  ls -a
+  324  pwd
+  325  open .
+  326  code .
+  327  ssh-keygen -t ed25519 -C "mariiamelnikova96@gmail.com"
+  328  Generating public/private ed25519 key pair.
+  329  public/private ed25519 key pair.
+  330  cd desktop
+  331  ls
+  332  cd ..
+  333  cd Desktop
+  334  cd Bootcamp
+  335  CD intro_to_command_line
+  336  cd intro_to_command_line
+  337  git status
+  338  git add .DS_Store
+  339  git add Agent
+  340  ls
+  341  git exploration.txt
+  342  git add exploration.txt
+  343  git status
+  344  git commit -m "updating"
+  345  git push origin main
+  346  brew install git
+  347  brew install --cask visual-studio-code
+  348  code
+  349  code ~/.zshrc
+  350  cd Desktop
+  351  git config --global init.defaultBranch main
+  352  git config --global user.name "mariiamel"
+  353  git config --global user.email "mariiamelnikova96@gmail.com"
+  354  git config --global push.default simple
+  355  git config --global credential.helper cache
+  356  ssh-keygen -t ed25519 -C "mariiamelnikova96@gmail.com"
+  357  eval "$(ssh-agent -s)"
+  358  open ~/.ssh/config
+  359  ssh-add -K ~/.ssh/id_ed25519
+  360  pbcopy < ~/.ssh/id_ed25519.pub
+  361  cat ~/.ssh/id_rsa.pub
+  362  cat ~/.ssh/id_ed25519
+  363  b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABB5jSXgvi\nEj5arCKmknp1eMAAAAEAAAAAEAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIIB8xTK0UmCQEoiD\nZLl7cH6LMKS+AXsHCPF9E2NWkg4TAAAAoNoGDo/045JV9PC84VkVOXxJIpu417dGhER0Hq\nS85g5Z5Mj3kVcRJXsPqJV+zb1LMUB+JpukcPIKv7qAijz8lhEApE1EtIKJdT0MYpeoU/xv\nCFFOuTE7273f+RQt/SSNKuTSkVHFU2bWMu6b/fcIz89vhJSReOcxKBWH2nPDnIOJI7Xerd\n+26YKa98uwwoSBhIONW3EVTBRa0+0Xxiz7npk=
+  364  cat ~/.ssh/id_ed25519.pub
+  365  git --version
+  366  mkdir code
+  367  ls
+  368  cd code
+  369  mkdir w1
+  370  cd w1
+  371  mdir d1
+  372  mkdir d1
+  373  cd w1
+  374  cd d1
+  375  mkdir git_practice
+  376  cd git_practice
+  377  git init
+  378  ls
+  379  ls -a
+  380  touch resume.txt
+  381  ls
+  382  git status
+  383  git add resume.txt
+  384  git status
+  385  git commit -m "Initial commit - added the resume"
+  386  echo 'cool resume!'
+  387  cat resume.txt
+  388  pwr
+  389  cd Desktop
+  390  ls
+  391  mkdir code
+  392  ls
+  393  cd code
+  394  cd d1
+  395  mkdir code
+  396  ls
+  397  cs ..
+  398  cd ..
+  399  pwd
+  400  mkdir code
+  401  ls
+  402  cd code
+  403  cd w1
+  404  cd d1
+  405  pwd
+  406  cd git_practice
+  407  git init
+  408  cd resume.txt
+  409  ls -a
+  410  touch resume.txt
+  411  ls
+  412  git add resume.txt
+  413  git status
+  414  git commit -m "Resume changes"
+  415  git status
+  416  git add resume.txt
+  417  git commit -m 'initial commit - dded to the resume'
+  418  touch resume.txt
+  419  ls
+  420  git status
+  421  git log
+  422  mkdir code
+  423  ls
+  424  cd code
+  425  cd w1
+  426  cd d1
+  427  pwd
+  428  cd git_practice
+  429  git init
+  430  ls
+  431  la -a
+  432  touch resume.txt
+  433  ls
+  434  git status
+  435  git add resume.txt
+  436  git status
+  437  git commit -m 'Initial commit - added to the resume'
+  438  echo 'cool resume!'
+  439  git status
+  440  git commit -m 'Added new' > resume.txt
+  441  git status
+  442  git add resume.txt
+  443  git remote add origin git@github.com:mariiamel/git_practice.git
+  444  remote -v
+  445  git remote add origin git@github.com:mariiamel/git_practice.git
+  446  git push -u origin main
+  447  pwd
+  448  cd ..
+  449  ls
+  450  pwd
+  451  /Users/mariamelnikova
+  452  ls
+  453  cd Desktop
+  454  ls
+  455  cd Bootcamp
+  456  ls
+  457  cd intro_to_command_line
+  458  ls
+  459  cd exploration.txt
+  460  git commit exploration.txt
+  461  cd ..
+  462  git clone git@github.com:mariiamel/command-line-murder-mystery.git
+  463  ls
+  464  cd command-line-murder-mystery
+  465  ls
+  466  pwd
+  467  ls
+  468  cd Desktop
+  469  cd Bootcamp
+  470  ls
+  471  cd command-line-murder-mystery
+  472  ls
+  473  touch solution.txt
+  474  cd mystery
+  475  ls
+  476  cd ..
+  477  ls
+  478  cat instructions
+  479  ls
+  480  touch clues.txt
+  481  cd mystery
+  482  ls
+  483  cat crimescene
+  484  grep "clue" crimescene > clues.txt
+  485  ls
+  486  cat clues.txt
+  487  ls
+  488  cat clues.txt
+  489  la
+  490  pwd
+  491  cd ..
+  492  ls
+  493  cat hint1
+  494  head -n 20 people
+  495  ls
+  496  cd hint1
+  497  head -n 20 instructions
+  498  cat people
+  499  grep clue
+  500  pwd
+  501  cd Desktop
+  502  cd Bootcamp
+  503  lls
+  504  ls
+  505  cd command-line-murder-mystery
+  506  ls
+  507  cat instructions
+  508  cd mystery
+  509  ls
+  510  cat clues.txt
+  511  cat people
+  512  sort
+  513  pwd
+  514  cd Desktop
+  515  cd Bootcamp
+  516  ls
+  517  cd command-line-murder-mystery
+  518  ls
+  519  cat instructions
+  520  cd mystery
+  521  ls
+  522  cd ..
+  523  ls
+  524  cat hint1
+  525  cat hint2
+  526  cat hint3
+  527  head -n 20 people
+  528  ls
+  529  grep "CLUE" crimescene
+  530  ls
+  531  tree
+  532  touch clues.txt
+  533  ls
+  534  head -n people
+  535  cd hint2
+  536  ls
+  537  cat hint2
+  538  grep "CLUE" crimescene
+  539  cat hint3
+  540  head people
+  541  head vehicles
+  542  head -n 20 people
+  543  ls
+  544  cd mystery
+  545  ls
+  546  cd streets
+  547  ls
+  548  cd ..
+  549  ls
+  550  cd interviews
+  551  ls
+  552  cd ..
+  553  ls
+  554  cd ..
+  555  cat hint4
+  556  grep "Annabel" people
+  557  cat hint5
+  558  ls
+  559  cat hint6
+  560  cat hint7
+  561  cat hint8
+  562  cd mystery
+  563  ls
+  564  cd memberships
+  565  cd ..
+  566  ls
+  567  cd streets
+  568  head -n 173 streets/Mattapan_Street | tail -n 1
+  569  cd ..
+  570  cd memberships
+  571  cat Fitness_Galaxy AAA United_MileagePlus| grep -c "John Smith"
+  572  cat AAA Delta_SkyMiles Museum_of_Bash_History| grep "Annabel Sun"
+  573  pwd
+  574  cd Desktop
+  575  cd Bootcamp
+  576  ls
+  577  cd command-line-murder-mystery
+  578  ls
+  579  cat instructions
+  580  cat hint1
+  581  cat hint2
+  582  cat hint3
+  583  ls
+  584  head -n 20 people
+  585  grep "CLUE"
+  586  pwd
+  587  cd Desktop
+  588  cd Bootcamp
+  589  ls
+  590  cd command-line-murder-mystery
+  591  ls
+  592  cat instructions
+  593  cat hint1
+  594  cat hint2
+  595  cat hint3
+  596  cat hint4
+  597  cat hint5
+  598  ls
+  599  cd mystery
+  600  ls
+  601  cd streets
+  602  ls
+  603  cd ..
+  604  ls
+  605  cd mem
+  606  cd memberships
+  607  ls
+  608  cd ..
+  609  ls
+  610  cd ..
+  611  ls
+  612  cat hint6
+  613  cat hint7
+  614  cat hint8
+  615  cd mystery
+  616  cd streets
+  617  head -n 173 streets/Mattapan_Street | trail - n 1
+  618  cd ..
+  619  ls
+  620  cd memberships
+  621  cat AAA
+  622  cd ..
+  623  ls
+  624  cd mem
+  625  cd memberships
+  626  cat Fitness_Galaxy AAA United_MileagePlus| grep -c "John Smith"
+  627  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Annabel Sun"
+  628  AAA Delta_SkyMiles Museum_of_Bash_History | grep "Anabel Church"
+  629  cat Fitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History| grep "Jacqui"
+  630  cat\nFitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History| grep "Jeremy"
+  631  pwd
+  632  cd Desktop
+  633  cd Bootcamp
+  634  ls
+  635  cd command-line-murder-mystery
+  636  ls
+  637  cat instructions
+  638  cat hint1
+  639  cat hint2
+  640  cat hint3
+  641  cat hint4
+  642  cat hint 5
+  643  cat hint5
+  644  cd mystery
+  645  ls -a
+  646  head -n 20 interviews
+  647  head -n 20 people
+  648  cd memberships
+  649  cd ..
+  650  ls
+  651  cd streets
+  652  cat Hart_Place
+  653  head -40 Hart_Place
+  654  cd ..
+  655  cd interviews
+  656  cat interview-47246024
+  657  cd ..
+  658  cd streets
+  659  head -173 Mattapan_Street
+  660  cd ..
+  661  cd interviews
+  662  cat interview-9437737
+  663  cd ..
+  664  ls
+  665  cd interviews
+  666  cat interview-699607
+  667  cd ..
+  668  cd streets
+  669  head -176 Haley_Street
+  670  cd ..
+  671  cd interviews
+  672  cat interview-871877
+  673  cd ..
+  674  grep "L337" vehicles
+  675  cd ..
+  676  ls
+  677  cd mystery
+  678  ls
+  679  cd memberships
+  680  ls
+  681  grep -A 4 "Bowers" membership
+  682  cat Fitness_Galaxy AAA United_MileagePlus | grep "Bowers"
+  683  cat Delta_SkyMiles AAA Museum_of_Bash_History| grep "Bowers"
+  684  cat Delta_SkyMiles AAA Museum_of_Bash_History Terminal_City_Library| grep "Bowers"
+  685  cat Delta_SkyMiles AAA Museum_of_Bash_History Terminal_City_Library | grep "Bowers" | wc - 1
+  686  git add
+  687  git add .
+  688  git remote -v
+  689  git commit -m "Killer is Jereme Bowers"
+  690  git add ../ ../clues.txt
+  691  git add ../vlues.txt
+  692  git add ../ ../solution.txt
+  693  git status
+  694  git add ../../clues.txt
+  695  git add ../../solution.txt
+  696  git status
+  697  git push origin main
+  698  git commit -m "Mariia's homework attempt"
+  699  git push origin main
+  700  git add mariias_attempt.txt
+  701  history
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    3  $ brew install git-gui 
+    4  $ brew install git
+    5  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    6  pwd
+    7  git --version
+    8  git --version
+    9  git --version
+   10  GA -Blog
+   11  GA-Blog
+   12  get status
+   13  git status
+   14  GA-Blog $Maria
+   15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   16  brue doctor
+   17  brue doctor
+   18  brue doctor
+   19  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   20  rue doctor
+   21  brue doctoor
+   22  brue doctor
+   23  brew install zsh
+   24  brew install zsh
+   25  brew install zsh
+   26  echo $SHELL
+   27  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   28  ZSH=path/to/new/ohmyzsh/folder sh install.sh
+   29  brew install git
+   30  git --version
+   31  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   32  git --version
+   33  brew install git
+   34  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   35  git version
+   36  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   37  brew install git
+   38  git --version
+   39  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   40  brew install git
+   41  git --version
+   42  brew upgrade git
+   43  open ~/.zshrc
+   44  code ~/.zshrc
+   45  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+   46  open ~/.zshrc
+   47  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+   48  ~/.zshrc file
+   49  open ~/.zshrc
+   50  ZSH_THEME="af-magic"
+   51  code ~/.zshrc
+   52  git config --global init.defaultBranch main\ngit config --global user.name "YOUR-USERNAME"\ngit config --global user.email "YOUR-EMAIL-ADDRESS"\ngit config --global push.default simple\ngit config --global credential.helper cache
+   53  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   54  ZSH= sh install.sh
+   55  ZSH=path/to/new/ohmyzsh/folder sh install.sh
+   56  brew install zsh
+   57  chsh -s /bin/zsh
+   58  echo $SHELL
+   59  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   60  brew install git
+   61  git --version
+   62  brew upgrade git
+   63  sudo add-apt-repository ppa:git-core/ppa\nsudo apt update; sudo apt install git
+   64  brew install --cask visual-studio-code
+   65  open ~/.zshrc
+   66  export PATH=$PATH:"/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+   67  ZSH_THEME="af-magic"
+   68  git config --global init.defaultBranch main\ngit config --global user.name "YOUR-USERNAME"\ngit config --global user.email "YOUR-EMAIL-ADDRESS"\ngit config --global push.default simple\ngit config --global credential.helper cache
+   69  $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   70  ~/.zshrc
+   71  ~/.zshrc 
+   72  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   73  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"\n
+   74  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   75  ~ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   76  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   77  xcode-select --install
+   78  brew install --cask iterm2
+   79  brew install zsh
+   80  brew install zsh
+   81  chsh -s /bin/zsh
+   82  0000
+   83  brew install zsh
+   84  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   85  brew install git
+   86  brew install zsh
+   87  brew install --cask iterm2
+   88  xcode-select --install
+   89  brew install zsh
+   90  chsh -s /bin/zsh
+   91  echo $SHELL
+   92  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   93  brew install git
+   94  git --version
+   95  brew upgrade git
+   96  brew install git
+   97  git --version
+   98  brew install git
+   99  git --version
+  100  brew install git
+  101  git --version
+  102  brew upgrade git
+  103  git --version
+  104  brew upgrade git
+  105  git --version
+  106  brew install git
+  107  brew upgrade git
+  108  brew install git
+  109  git --version
+  110  brew upgrade git
+  111  xcode-select --install
+  112  brew install --cask iterm2
+  113  brew install zsh
+  114  chsh -s /bin/zsh
+  115  echo $SHELL
+  116  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  117  brew install git
+  118  git --version
+  119  brew upgrade git
+  120  brew reinstall git
+  121  git --version
+  122  $ brew install git
+  123  git --version
+  124  mkdir code
+  125  ls
+  126  cd code
+  127  /code
+  128  brew install git
+  129  git --version
+  130  brew upgrade git
+  131  brew install --cask visual-studio-code
+  132  open ~/.zshrc
+  133  cd d1
+  134  pwd
+  135  mkdir git_practice
+  136  cd git_practice
+  137  git init
+  138  is
+  139  ls
+  140  touch resume.txt
+  141  ls
+  142  brew install git
+  143  git --version
+  144  brew upgrade git
+  145  ls
+  146  git clone git@github.com:mariiamel/git_practice.git
+  147  brew install --cask visual-studio-code
+  148  open ~/.zshrc
+  149  ZSH_THEME="af-magic"
+  150  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  151  brew install git
+  152  git --version\n
+  153  brew upgrade git
+  154  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  155  brew install git
+  156  brew upgrade git
+  157  ZSH=path/to/new/ohmyzsh/folder sh install.sh
+  158  `ZSH=path/to/new/ohmyzsh/folder sh install.sh`
+  159  git --version
+  160  brew update git
+  161  which brew
+  162  brew -v
+  163  cd usr/local
+  164  which brew
+  165  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  166  xcode-select --install
+  167  brew install --cask iterm2
+  168  cd 
+  169  ls
+  170  cd Desktop
+  171  pwd
+  172  ls
+  173  cd bootcamp
+  174  cd ..
+  175  cd Bootcamp
+  176  ls
+  177  git clone https://github.com/SEI-SEA-1-25/intro_to_command_line.git
+  178  ls
+  179  cd intro_to_command_line
+  180  code .
+  181  cd ..
+  182  ls
+  183  cd mariamelnikova
+  184  ls
+  185  cd Desktop
+  186  ls
+  187  cd Bootcamp
+  188  ls
+  189  cd intro_to_command_line
+  190  code .
+  191  ls
+  192  cd mansion
+  193  ls
+  194  pwd
+  195  ls
+  196  ls -a
+  197  cd entry_hall
+  198  ls
+  199  cd coat_closet
+  200  ls
+  201  touch new_coat.txt
+  202  ls
+  203  cd ..
+  204  ls
+  205  cd east_wing
+  206  ls
+  207  cd dining_room
+  208  ls
+  209  rm sandwich.txt
+  210  ls
+  211  cp -r chair.txt
+  212  ls
+  213  cp -r chair.txt chair_1.txt
+  214  ls
+  215  cp -r chair.txt chair_2.txt
+  216  cp -r chair.txt chair_3.txt
+  217  cp -r chair.txt chair_4.txt
+  218  ls
+  219  cd ..
+  220  ls
+  221  cd guest_bedroom
+  222  ls
+  223  cd ..
+  224  ls
+  225  cd east_wing
+  226  cd ..
+  227  ls
+  228  cd west_wing
+  229  cd ..
+  230  cd west_wing/guest_bedroom
+  231  ls
+  232  cd west_wing
+  233  ls
+  234  cd master_bedroom
+  235  ls
+  236  ls -a
+  237  mv mirror.txt smash_mirror.txt
+  238  ls
+  239  mkdr cardboard_box.txt
+  240  mkdir cardboard_box
+  241  ls
+  242  mv smash_mirror.txt cardboard_box
+  243  ls
+  244  cd cardboard_box
+  245  ls
+  246  cd ..
+  247  ls
+  248  ls -a
+  249  cd .secret_passage
+  250  ls
+  251  ls -a
+  252  mv .family_heirloom.txt master_bedroom
+  253  ls
+  254  rm -rf .secret_page
+  255  cd ..
+  256  pwd
+  257  cd mansion
+  258  cd ..
+  259  dit add
+  260  git add
+  261  git add .
+  262  git commit -m "comments"
+  263  git push -u origin main
+  264  git init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:mariiamel/git_practice.git\ngit push -u origin main
+  265  git push -u origin main
+  266  git status
+  267  git add east_wing/
+  268  git add entry_hall/
+  269  git add west_wing/
+  270  git status
+  271  git commit -m
+  272  git commit -m "comment"
+  273  git status
+  274  git remote -v
+  275  git push origin main
+  276  git push origin master
+  277  git --version
+  278  git update
+  279  brew upgrade git
+  280  brew install git
+  281  git --version
+  282  brew upgrade git
+  283  git --version
+  284  ls
+  285  cd Desktop
+  286  cd Bootcamp
+  287  ls
+  288  cd intro_to_command_line
+  289  git config --global init.defaultBranch main
+  290  git config --global user.name "YOUR-USERNAME"
+  291  git config --global user.name "mariiamel"
+  292  git config --global user.email "mariiamelnikova96@gmail.com"
+  293  git config --global push.default simple
+  294  git config --global credential.helper cache
+  295  git status
+  296  ssh-keygen -t ed25519 -C "mariiamelnikova96@gmail.com"
+  297  eval "$(ssh-agent -s)"\n> Agent pid 59566
+  298  eval "$(ssh-agent -s)"
+  299  open ~/.ssh/config
+  300  cd ..
+  301  touch ~/.ssh/config
+  302  open ~/.ssh/config
+  303  ssh-add -K ~/.ssh/id_ed25519
+  304  pbcopy < ~/.ssh/id_ed25519.pub
+  305  code .
+  306  ls
+  307  la -la
+  308  pwd
+  309  cd .
+  310  ls
+  311  cd .ssh
+  312  ls -a
+  313  cd
+  314  cd intro_command_line
+  315  ls
+  316  cd /desktop/bootcamp/intro_to_command_line
+  317  cd Desktop
+  318  cd Bootcamp
+  319  cd intro_to_command_line
+  320  ls -a
+  321  cd ~
+  322  cd code
+  323  ls -a
+  324  pwd
+  325  open .
+  326  code .
+  327  ssh-keygen -t ed25519 -C "mariiamelnikova96@gmail.com"
+  328  Generating public/private ed25519 key pair.
+  329  public/private ed25519 key pair.
+  330  cd desktop
+  331  ls
+  332  cd ..
+  333  cd Desktop
+  334  cd Bootcamp
+  335  CD intro_to_command_line
+  336  cd intro_to_command_line
+  337  git status
+  338  git add .DS_Store
+  339  git add Agent
+  340  ls
+  341  git exploration.txt
+  342  git add exploration.txt
+  343  git status
+  344  git commit -m "updating"
+  345  git push origin main
+  346  brew install git
+  347  brew install --cask visual-studio-code
+  348  code
+  349  code ~/.zshrc
+  350  cd Desktop
+  351  git config --global init.defaultBranch main
+  352  git config --global user.name "mariiamel"
+  353  git config --global user.email "mariiamelnikova96@gmail.com"
+  354  git config --global push.default simple
+  355  git config --global credential.helper cache
+  356  ssh-keygen -t ed25519 -C "mariiamelnikova96@gmail.com"
+  357  eval "$(ssh-agent -s)"
+  358  open ~/.ssh/config
+  359  ssh-add -K ~/.ssh/id_ed25519
+  360  pbcopy < ~/.ssh/id_ed25519.pub
+  361  cat ~/.ssh/id_rsa.pub
+  362  cat ~/.ssh/id_ed25519
+  363  b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABB5jSXgvi\nEj5arCKmknp1eMAAAAEAAAAAEAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIIB8xTK0UmCQEoiD\nZLl7cH6LMKS+AXsHCPF9E2NWkg4TAAAAoNoGDo/045JV9PC84VkVOXxJIpu417dGhER0Hq\nS85g5Z5Mj3kVcRJXsPqJV+zb1LMUB+JpukcPIKv7qAijz8lhEApE1EtIKJdT0MYpeoU/xv\nCFFOuTE7273f+RQt/SSNKuTSkVHFU2bWMu6b/fcIz89vhJSReOcxKBWH2nPDnIOJI7Xerd\n+26YKa98uwwoSBhIONW3EVTBRa0+0Xxiz7npk=
+  364  cat ~/.ssh/id_ed25519.pub
+  365  git --version
+  366  mkdir code
+  367  ls
+  368  cd code
+  369  mkdir w1
+  370  cd w1
+  371  mdir d1
+  372  mkdir d1
+  373  cd w1
+  374  cd d1
+  375  mkdir git_practice
+  376  cd git_practice
+  377  git init
+  378  ls
+  379  ls -a
+  380  touch resume.txt
+  381  ls
+  382  git status
+  383  git add resume.txt
+  384  git status
+  385  git commit -m "Initial commit - added the resume"
+  386  echo 'cool resume!'
+  387  cat resume.txt
+  388  pwr
+  389  cd Desktop
+  390  ls
+  391  mkdir code
+  392  ls
+  393  cd code
+  394  cd d1
+  395  mkdir code
+  396  ls
+  397  cs ..
+  398  cd ..
+  399  pwd
+  400  mkdir code
+  401  ls
+  402  cd code
+  403  cd w1
+  404  cd d1
+  405  pwd
+  406  cd git_practice
+  407  git init
+  408  cd resume.txt
+  409  ls -a
+  410  touch resume.txt
+  411  ls
+  412  git add resume.txt
+  413  git status
+  414  git commit -m "Resume changes"
+  415  git status
+  416  git add resume.txt
+  417  git commit -m 'initial commit - dded to the resume'
+  418  touch resume.txt
+  419  ls
+  420  git status
+  421  git log
+  422  mkdir code
+  423  ls
+  424  cd code
+  425  cd w1
+  426  cd d1
+  427  pwd
+  428  cd git_practice
+  429  git init
+  430  ls
+  431  la -a
+  432  touch resume.txt
+  433  ls
+  434  git status
+  435  git add resume.txt
+  436  git status
+  437  git commit -m 'Initial commit - added to the resume'
+  438  echo 'cool resume!'
+  439  git status
+  440  git commit -m 'Added new' > resume.txt
+  441  git status
+  442  git add resume.txt
+  443  git remote add origin git@github.com:mariiamel/git_practice.git
+  444  remote -v
+  445  git remote add origin git@github.com:mariiamel/git_practice.git
+  446  git push -u origin main
+  447  pwd
+  448  cd ..
+  449  ls
+  450  pwd
+  451  /Users/mariamelnikova
+  452  ls
+  453  cd Desktop
+  454  ls
+  455  cd Bootcamp
+  456  ls
+  457  cd intro_to_command_line
+  458  ls
+  459  cd exploration.txt
+  460  git commit exploration.txt
+  461  cd ..
+  462  git clone git@github.com:mariiamel/command-line-murder-mystery.git
+  463  ls
+  464  cd command-line-murder-mystery
+  465  ls
+  466  pwd
+  467  ls
+  468  cd Desktop
+  469  cd Bootcamp
+  470  ls
+  471  cd command-line-murder-mystery
+  472  ls
+  473  touch solution.txt
+  474  cd mystery
+  475  ls
+  476  cd ..
+  477  ls
+  478  cat instructions
+  479  ls
+  480  touch clues.txt
+  481  cd mystery
+  482  ls
+  483  cat crimescene
+  484  grep "clue" crimescene > clues.txt
+  485  ls
+  486  cat clues.txt
+  487  ls
+  488  cat clues.txt
+  489  la
+  490  pwd
+  491  cd ..
+  492  ls
+  493  cat hint1
+  494  head -n 20 people
+  495  ls
+  496  cd hint1
+  497  head -n 20 instructions
+  498  cat people
+  499  grep clue
+  500  pwd
+  501  cd Desktop
+  502  cd Bootcamp
+  503  lls
+  504  ls
+  505  cd command-line-murder-mystery
+  506  ls
+  507  cat instructions
+  508  cd mystery
+  509  ls
+  510  cat clues.txt
+  511  cat people
+  512  sort
+  513  pwd
+  514  cd Desktop
+  515  cd Bootcamp
+  516  ls
+  517  cd command-line-murder-mystery
+  518  ls
+  519  cat instructions
+  520  cd mystery
+  521  ls
+  522  cd ..
+  523  ls
+  524  cat hint1
+  525  cat hint2
+  526  cat hint3
+  527  head -n 20 people
+  528  ls
+  529  grep "CLUE" crimescene
+  530  ls
+  531  tree
+  532  touch clues.txt
+  533  ls
+  534  head -n people
+  535  cd hint2
+  536  ls
+  537  cat hint2
+  538  grep "CLUE" crimescene
+  539  cat hint3
+  540  head people
+  541  head vehicles
+  542  head -n 20 people
+  543  ls
+  544  cd mystery
+  545  ls
+  546  cd streets
+  547  ls
+  548  cd ..
+  549  ls
+  550  cd interviews
+  551  ls
+  552  cd ..
+  553  ls
+  554  cd ..
+  555  cat hint4
+  556  grep "Annabel" people
+  557  cat hint5
+  558  ls
+  559  cat hint6
+  560  cat hint7
+  561  cat hint8
+  562  cd mystery
+  563  ls
+  564  cd memberships
+  565  cd ..
+  566  ls
+  567  cd streets
+  568  head -n 173 streets/Mattapan_Street | tail -n 1
+  569  cd ..
+  570  cd memberships
+  571  cat Fitness_Galaxy AAA United_MileagePlus| grep -c "John Smith"
+  572  cat AAA Delta_SkyMiles Museum_of_Bash_History| grep "Annabel Sun"
+  573  pwd
+  574  cd Desktop
+  575  cd Bootcamp
+  576  ls
+  577  cd command-line-murder-mystery
+  578  ls
+  579  cat instructions
+  580  cat hint1
+  581  cat hint2
+  582  cat hint3
+  583  ls
+  584  head -n 20 people
+  585  grep "CLUE"
+  586  pwd
+  587  cd Desktop
+  588  cd Bootcamp
+  589  ls
+  590  cd command-line-murder-mystery
+  591  ls
+  592  cat instructions
+  593  cat hint1
+  594  cat hint2
+  595  cat hint3
+  596  cat hint4
+  597  cat hint5
+  598  ls
+  599  cd mystery
+  600  ls
+  601  cd streets
+  602  ls
+  603  cd ..
+  604  ls
+  605  cd mem
+  606  cd memberships
+  607  ls
+  608  cd ..
+  609  ls
+  610  cd ..
+  611  ls
+  612  cat hint6
+  613  cat hint7
+  614  cat hint8
+  615  cd mystery
+  616  cd streets
+  617  head -n 173 streets/Mattapan_Street | trail - n 1
+  618  cd ..
+  619  ls
+  620  cd memberships
+  621  cat AAA
+  622  cd ..
+  623  ls
+  624  cd mem
+  625  cd memberships
+  626  cat Fitness_Galaxy AAA United_MileagePlus| grep -c "John Smith"
+  627  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Annabel Sun"
+  628  AAA Delta_SkyMiles Museum_of_Bash_History | grep "Anabel Church"
+  629  cat Fitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History| grep "Jacqui"
+  630  cat\nFitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History| grep "Jeremy"
+  631  pwd
+  632  cd Desktop
+  633  cd Bootcamp
+  634  ls
+  635  cd command-line-murder-mystery
+  636  ls
+  637  cat instructions
+  638  cat hint1
+  639  cat hint2
+  640  cat hint3
+  641  cat hint4
+  642  cat hint 5
+  643  cat hint5
+  644  cd mystery
+  645  ls -a
+  646  head -n 20 interviews
+  647  head -n 20 people
+  648  cd memberships
+  649  cd ..
+  650  ls
+  651  cd streets
+  652  cat Hart_Place
+  653  head -40 Hart_Place
+  654  cd ..
+  655  cd interviews
+  656  cat interview-47246024
+  657  cd ..
+  658  cd streets
+  659  head -173 Mattapan_Street
+  660  cd ..
+  661  cd interviews
+  662  cat interview-9437737
+  663  cd ..
+  664  ls
+  665  cd interviews
+  666  cat interview-699607
+  667  cd ..
+  668  cd streets
+  669  head -176 Haley_Street
+  670  cd ..
+  671  cd interviews
+  672  cat interview-871877
+  673  cd ..
+  674  grep "L337" vehicles
+  675  cd ..
+  676  ls
+  677  cd mystery
+  678  ls
+  679  cd memberships
+  680  ls
+  681  grep -A 4 "Bowers" membership
+  682  cat Fitness_Galaxy AAA United_MileagePlus | grep "Bowers"
+  683  cat Delta_SkyMiles AAA Museum_of_Bash_History| grep "Bowers"
+  684  cat Delta_SkyMiles AAA Museum_of_Bash_History Terminal_City_Library| grep "Bowers"
+  685  cat Delta_SkyMiles AAA Museum_of_Bash_History Terminal_City_Library | grep "Bowers" | wc - 1
+  686  git add
+  687  git add .
+  688  git remote -v
+  689  git commit -m "Killer is Jereme Bowers"
+  690  git add ../ ../clues.txt
+  691  git add ../vlues.txt
+  692  git add ../ ../solution.txt
+  693  git status
+  694  git add ../../clues.txt
+  695  git add ../../solution.txt
+  696  git status
+  697  git push origin main
+  698  git commit -m "Mariia's homework attempt"
+  699  git push origin main
+  700  git add mariias_attempt.txt
+  701  history
+  702  history >> solution.txt
+  703  git status
+  704  git add solution.txt
