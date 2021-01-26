@@ -1,0 +1,144 @@
+The name of the killer is... Jeremy Bowers! Duh duh DUH!
+
+History:
+267  cd command-line-murder-mystery
+  268  ls
+  269  touch clues.txt
+  270  cd instructions
+  271  instructions
+  272  cat instructions
+  273  code .
+  274  ls
+  275  touch solution.txt
+  276  ls
+  277  history
+  278  ls
+  279  cat instructions
+  280  cd mystery
+  281  ls
+  282  cat crimescene
+  283  cd..
+  284  cd ..
+  285  ls
+  286  cat instructions
+  287  cd mystery
+  288  cat crimescene
+  289  grep "CLUE" crimescene
+  290  grep -i "clue" crimescene
+  291  grep "clue" crimescene | cat > clues.txt
+  292  ls
+  293  cat clues.txt
+  294  rm clues.txt
+  295  ls
+  296  cat grep "clue" crimescene > clues.txt
+  297  grep "clue" crimescene > crimescene_clues.txt
+  298  ls
+  299  rm clues.txt
+  300  cat crimescene_clues.txt
+  301  rm crimescene_clues.txt
+  302  ls
+  303  cd ..
+  304  ls
+  305  cd mystery
+  306  grep "clues" crimescene | head > crimescene_clues.txt
+  307  ls
+  308  cat crimescene_clues.txt
+  309  rm crimescene_clues.txt
+  310  cd ..
+  311  echo "CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is at least 6' tall.\nCLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.\nCLUE: Questioned the barista at the local coffee shop. He said a person left right before they heard the shots. The name on their latte was Annabel, they had blond spiky hair and a New Zealand accent." >> clues.txt
+  312  cat clues.txt
+  313  cat instructions
+  314  ls
+  315  ls -a
+  316  cd mystery
+  317  las -la
+  318  ls -la
+  319  grep "barista" interviews
+  320  cd interviews
+  321  ls
+  322  ls -la
+  323  cd ..
+  324  cd interviews
+  325  pwd
+  326  grep "barista" *
+  327  grep "Barista" *
+  328  cd ..
+  329  grep -r "Barista" *
+  330  grep -r "Annabel" *
+  331  ls
+  332  cd people
+  333  cat people
+  334  cd ..
+  335  cd mystery
+  336  ls
+  337  cd streets
+  338  ls
+  339  cd ..
+  340  grep -r "Annabel" *
+  341  cd streets
+  342  cat buckingham_place
+  343  cd ..
+  344  cd interviews
+  345  ls
+  346  cat interview
+  347  cat interview-699607
+  348  cd ..
+  349  ls
+  350  echo "memberships/REI:Annabel Church\nmemberships/Rotary_Club:Annabel Sun\nmemberships/Rotary_Club:Annabel Fuglsang\nmemberships/Rotary_Club:Annabel Church\nmemberships/AAA:Annabel Church\nmemberships/AAdvantage:Annabel Fuglsang\nmemberships/AAdvantage:Annabel Church\nmemberships/newfile.txt:Annabel Church\nmemberships/museum.txt:Annabel Church\nmemberships/museum.txt:Oluwasegun Annabel\nmemberships/Fitness_Galaxy:Oluwasegun Annabel\nmemberships/Fitness_Galaxy:Annabel Church\nmemberships/Museum_of_Bash_History:Annabel Church\nmemberships/Museum_of_Bash_History:Oluwasegun Annabel\npeople:Annabel Sun\tF\t26\tHart Place, line 40\npeople:Oluwasegun Annabel\tM\t37\tMattapan Street, line 173\npeople:Annabel Church\tF\t38\tBuckingham Place, line 179\npeople:Annabel Fuglsang\tM\t40\tHaley Street, line 176\nvehicles:Owner: Oluwasegun Annabel\nvehicles:Owner: Annabel Church\nvehicles:Owner: Annabel Sun\nvehicles:Owner: Annabel Fuglsang" >> clues.txt
+  351  echo "interview-699607                        1 ↵ chrisspicer@Chris-MacBook-Pro\nInterviewed Ms. Church at 2:04 pm.  Witness stated that they did not see anyone they could identify as the shooter, that they ran away as soon as the shots were fired.\n\nHowever, they report seeing the car that fled the scene. Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9"\n----------" >> clues.txt
+  352  cat clues.txt
+  353  ls
+  354  cd mystery
+  355  ls
+  356  cat vehicles
+  357  cat clues.txt
+  358  cd ..
+  359  cat clues.txt
+  360  cd mystery
+  361  grep -B 5 "L337" vehicles
+  362  grep -B 4 "L337" vehicles
+  363  grep -C 5 "L337" vehicles
+  364  grep -A 5 "L337" vehicles
+  365  echo "License Plate L337DV9\nMake: Honda\nColor: Blue\nOwner: Joe Germuska\nHeight: 6'2"\nWeight: 164 lbs\n--\nLicense Plate L3375A9\nMake: Honda\nColor: Blue\nOwner: Jeremy Bowers\nHeight: 6'1"\nWeight: 204 lbs\n--\nLicense Plate L337WR9\nMake: Honda\nColor: Blue\nOwner: Jacqui Maher\nHeight: 6'2"\nWeight: 130 lbs
+  366  echo "License Plate L337DV9                                chrisspicer@Chris-MacBook-Pro\nMake: Honda\nColor: Blue\nOwner: Joe Germuska\nHeight: 6'2"\nWeight: 164 lbs\n--\nLicense Plate L3375A9\nMake: Honda\nColor: Blue\nOwner: Jeremy Bowers\nHeight: 6'1"\nWeight: 204 lbs\n--\nLicense Plate L337WR9\nMake: Honda\nColor: Blue\nOwner: Jacqui Maher\nHeight: 6'2"\nWeight: 130 lbs\n--\nLicense Plate L337QE9\nMake: Honda\nColor: Blue\nOwner: Erika Owens\nHeight: 6'5"\nWeight: 220 lbs" >> ../clues.txt
+  367  cd ..
+  368  echo "License Plate L337DV9                                chrisspicer@Chris-MacBook-Pro\nMake: Honda\nColor: Blue\nOwner: Joe Germuska\nHeight: 6'2\nWeight: 164 lbs\n--\nLicense Plate L3375A9\nMake: Honda\nColor: Blue\nOwner: Jeremy Bowers\nHeight: 6'1\nWeight: 204 lbs\n--\nLicense Plate L337WR9\nMake: Honda\nColor: Blue\nOwner: Jacqui Maher\nHeight: 6'2\nWeight: 130 lbs\n--\nLicense Plate L337QE9\nMake: Honda\nColor: Blue\nOwner: Erika Owens\nHeight: 6'5\nWeight: 220 lbs" >> clues.txt
+  369  cat clues.txt
+  370  cd mystery
+  371  ls
+  372  cd streets
+  373  ls
+  374  cat buckingham_place
+  375  cd ..
+  376  ls -a
+  377  ls
+  378  cd ..
+  379  cat clues.txt
+  380  grep -r "germuska" *
+  381  cd mystery
+  382  grep -r "Germuska" *
+  383  grep -r "germuska" *
+  384  grep -r "Bowers" *
+  385  grep -r "Maher" *
+  386  grep -r "Owens" *
+  387  cd memberships
+  388  ls
+  389  ls -la
+  390  cat delta_skymiles
+  391  cd ..
+  392  grep -r "Bowers" *
+  393  cd ..
+  394  echo "memberships/library.txt:Jeremy Bowers\nmemberships/AAA:Jeremy Bowers\nmemberships/newfile.txt:Jeremy Bowers\nmemberships/museum.txt:Jeremy Bowers\nmemberships/2.txt:Jeremy Bowers\nmemberships/Terminal_City_Library:Jeremy Bowers\nmemberships/1.txt:Jeremy Bowers\nmemberships/delta.txt:Jeremy Bowers\nmemberships/Museum_of_Bash_History:Jeremy Bowers\nmemberships/Delta_SkyMiles:Jeremy Bowers\npeople:Jeremy Bowers\tM\t34\tDunstable Road, line 284\nvehicles:Owner: Jeremy Bowers" >> clues.txt
+  395  cd mystery
+  396  cd memberships
+  397  ls
+  398  cat 1.txt
+  399  cd ..
+  400  cd memberships
+  401  cat newfile.txt
+  402  cd..
+  403  cd ..
+  404  ls
+  405  ls -la
+  406  cat clues.txt
+  407  cat instructions
