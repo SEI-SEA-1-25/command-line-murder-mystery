@@ -1,0 +1,53 @@
+1)
+  439  cd Desktop/GA/Homework/command-line-murder-mystery
+  440  touch solution.txt
+  441  cd mystery
+  442  /files$ grep "CLUE" crimescene
+  443  grep "Annabel" people
+  444  cat hint1
+  445  cd ..
+  446  cat hint1
+  447  cd mystery
+  448  grep "Hart_Place" streets
+  449  cd streets
+  450  cat Hart_Place
+  451  head -40 Hart_Place
+  452  cd ..
+  453  cd interviews
+  454  cat interview-47246024
+  455  cd ..
+  456  cd streets
+  457  head -173 Mattapan_Street
+  458  cd ..
+  459  cd interviews
+  460  cat interview-9437737
+  461  cd..
+  462  cd ..
+  463  cd streets
+  464  head -179 Buckingham_Place
+  465  cd ..
+  466  cd interviews
+  467  cat interview-699607
+  468  cd ..
+  469  cd streets
+  470  head -176 Haley_Street
+  471  cat interview-871877
+  472  cd ..
+  473  cat interview-871877
+  474  cd interviews
+  475  cat interview-871877
+  476  grep "L337"
+  477  cd ..
+  478  grep "L337" vehicles
+  479  grep -A 4 "L337" vehicles
+  480  grep -A 4 "Annabel" vehicles
+  481  grep -A 5 "L337" mystery/vehicles
+  482  grep -A 5 "L337" vehicles
+  483  cd memberships
+  484  cat Fitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History  | grep "Jacqui"
+  485  cat Fitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History  | grep "Jeremy"
+  486  cat Fitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History  | grep "Joe Germuska"
+  487  cat Fitness_Galaxy AAA Delta_SkyMiles Museum_of_Bash_History  | grep "Heather Billings"
+  488  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Jeremy Bowers"
+
+2) Jeremy Bowers
