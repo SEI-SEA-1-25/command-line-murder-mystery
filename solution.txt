@@ -1,0 +1,16 @@
+  271  ls
+  272  mkdir SEI
+  273  cd SEI
+  274  mkdir Unit1
+  275  cd Unit1
+  276  mkdir Homework
+  277  cd Homework
+  278  git clone git@github.com:olgaszpiro/command-line-murder-mystery.git
+  279  ls
+  280  cd command-line-murder-mystery
+  281  cat instructions
+  282  touch solution.txt
+  283  ls
+  284  cat instructions
+  285  open instructions
+  286  open solution.txt
