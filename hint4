@@ -1,4 +1,4 @@
-To find all the Annabels' addresses, use the 'people' file:
+oTo find all the Annabels' addresses, use the 'people' file:
 
 	grep "Annabel" people
 

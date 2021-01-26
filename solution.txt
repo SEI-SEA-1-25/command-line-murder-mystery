@@ -1,0 +1,140 @@
+244  git clone git@github.com:darrengp/command-line-murder-mystery.git
+  245  ls
+  246  cd command-line-murder-mystery
+  247  ls -a
+  248  clear
+  249  code .
+  250  head -n 20 people
+  251  ls
+  252  touch solution.txt
+  253  clear
+  254  ls
+  255  open cheatsheet.md
+  256  open instructions
+  257  cd mystery
+  258  ls
+  259  ls -a
+  260  open crimescene
+  261  open ../hint1
+  262  head -n 20 people
+  263  grep -r "CLUE"
+  264  cd code/sei125/w1/d1/command-line-murder-mystery/mystery
+  265  ls
+  266  ls -a
+  267  grep "CLUE"
+  268  cd code/sei125/w1/d1/command-line-murder-mystery/mystery
+  269  grep "CLUE" *
+  270  nano cheatsheat.md
+  271  head -n 20 people
+  272  grep "6' tall" *
+  273  ls
+  274  cd interviews
+  275  grep "6' tall" *
+  276  cd ..
+  277  cd memberships
+  278  grep "6' tall" *
+  279  cd ..
+  280  cd streets
+  281  grep "6' tall" *
+  282  cd ..
+  283  ls
+  284  cd ..
+  285  open hint2
+  286  open hint3
+  287  pwd
+  288  ls
+  289  cd mystery
+  290  cd memberships
+  291  head -n 50 AAA
+  292  grep "Annabel" *
+  293  open hint4
+  294  cd ..
+  295  ls
+  296  cd ..
+  297  open hint4
+  298  open hint5
+  299  open hint6 hint7 hint8
+  300  ls -a
+  301  cd mystery
+  302  ls -a
+  303  cat solution
+  304  cat hint1
+  305  cd ..
+  306  cat hint1
+  307  cat solution
+  308  cd ..
+  309  cat solution
+  310  cd command-line-murder-mystery
+  311  cd mystery
+  312  ls
+  313  cat hint2
+  314  cd ..
+  315  cat hint2
+  316  ls
+  317  cd mystery
+  318  cd streets
+  319  grep "Buckingham Place" *
+  320  grep "Buckingham_Place" *
+  321  cat Buckingham_Place
+  322  ls
+  323  cd ..
+  324  ls
+  325  cat README.md
+  326  ls
+  327  cd mystery
+  328  grep "CLUE" *
+  329  cd streets
+  330  grep "CLUE" *
+  331  cd ..
+  332  cd memberships
+  333  grep "CLUE" *
+  334  cd ..
+  335  cd interviews
+  336  ls
+  337  grep "CLUE" *
+  338  cd ..
+  339  ls
+  340  head -n 20 people
+  341  head -n 173 streets/Mattapan_Street | tail -n 1
+  342  ls
+  343  cd interviews
+  344  head n- 20 interview-9437737
+  345  cat interview-9437737
+  346  cd ..
+  347  head -n 176 streets/Haley_Street | tail -n 1
+  348  cd ..
+  349  cd mystery
+  350  cd interviews
+  351  cat interview-871877
+  352  cd ..
+  353  head -n 179 streets/Buckingham_Place | tail -n 1
+  354  cd ..
+  355  cd mystery
+  356  cd interviews
+  357  cat interview-699607
+  358  cd ..
+  359  grep "Honda" vehicles
+  360  grep "Blue" vehicles
+  361  grep "L337" vehicles
+  362  grep -A 5 "L337" mystery/vehicles
+  363  ls
+  364  head -n 20 vehicles
+  365  grep "L337" *
+  366  grep -A 5 "L337" mystery/vehicles *
+  367  ls
+  368  cd memberships
+  369  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Jacqui Maher"
+  370  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep -c "Jacqui Maher"
+  371  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Jacqui Maher" wc -l
+  372  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Jacqui Maher" | wc -l
+  373  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Jeremy" | wc -l
+  374  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Erika" | wc -l
+  375  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Matt" | wc -l
+  376  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Jeremy"
+  377  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Matt"
+  378  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Matt Waite"
+  379  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Brian"
+  380  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Al Shaw"
+  381  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Miranda"
+  382  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Joe"
+  383  cat Museum_of_Bash_History Terminal_City_Library AAA Delta_SkyMiles | grep "Joe G"
