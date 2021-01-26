@@ -1,0 +1,10 @@
+{
+
+
+}
+
+had to back up PC, install Ubuntu correctly (actual install instead of running from bootable usb)
+
+then had to re-do install fest
+
+was not able to get to this assignment!
