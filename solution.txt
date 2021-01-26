@@ -1,3 +1,4 @@
+olgaszpiro@Olgas-MacBook-Pro command-line-murder-mystery % cat solution.txt
   271  ls
   272  mkdir SEI
   273  cd SEI
@@ -14,3 +15,20 @@
   284  cat instructions
   285  open instructions
   286  open solution.txt
+  484  cat people
+  485  grep -i "Annabel" people
+  486  ls
+  487  cd interviews
+  488  ls
+  489  cat interview-47246024
+  490  grep "Church" interviews
+  491  head - 12 people
+  492  cd ..
+  493  ls
+  494  head - 12 people
+  495  head -n 12 people
+  496  cd streets
+  497  ls
+  498  cd Buckingham_Place
+  499  cat Buckingham_Place%
+Git 
