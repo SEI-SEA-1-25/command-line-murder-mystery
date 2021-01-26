@@ -1,0 +1,236 @@
+    1  ls
+    2  mdkir Test
+    3  mdkir test
+    4  ls
+    5  pwd
+    6  ls
+    7  mkdir test
+    8  ls
+    9  cd test
+   10  "Hello Command Line" >> hello_cli.txt
+   11  ls
+   12  cat hello_cli.txt
+   13  pwd
+   14  ls
+   15  cd ../Hello Command Line
+   16  ls
+   17  cd ../"Hello Command Line"
+   18  ls
+   19  ls
+   20  cd test
+   21  echo "Hello Command Line" >> hello_cli.txt
+   22  ls
+   23  cat hello_cli.txt
+   24  node
+   25  java -version
+   26  cd helloworld.java
+   27  cd helloworld.java
+   28  cd helloworld
+   29  cd Java
+   30  git commit
+   31  cd code
+   32  code
+   33  git --version
+   34  git checkout
+   35  pwd
+   36  git init
+   37  git log
+   38  cd code
+   39  code
+   40  pwd
+   41  mkdir GA
+   42  ls
+   43  pwd
+   44  git clone https://github.com/NBryant83/git-pull-request-practice.git
+   45  ls
+   46  cd git-pull-request-practice/
+   47  touch nakisha.txt
+   48  git add nakisha.txt
+   49  git commit -m "added the nakisha text file"
+   50  git push origin main
+   51  cd ~
+   52  ls
+   53  ls -a
+   54  ls -al
+   55  cd ~/.ssh
+   56  ssh-keygen -t ed25519 -C "nakisha.bryant@gmail.com"
+   57  eval "$(ssh-agent -s)"
+   58  ssh-add ~/.ssh/id_ed25519
+   59  ls
+   60  ls -al
+   61  pwd
+   62  git clone https://github.com/NBryant83/intro_to_command_line.git
+   63  cat ~/.ssh/id_ed25519.pub
+   64  pwd
+   65  rm -fr git@github.com:NBryant83/intro_to_command_line.git
+   66  pwd
+   67  cd code
+   68  pwd
+   69  mkdir code
+   70  pwd
+   71  cd code
+   72  git clone git@github.com:NBryant83/intro_to_command_line.git
+   73  git clone git@github.com:NBryant83/intro_to_command_line.git
+   74  pwd
+   75  ls
+   76  cd intro_to_command_line/
+   77  ls
+   78  cd mansion/
+   79  ls
+   80  code .
+   81  cd intro_to_command_line
+   82  cd ..
+   83  ls
+   84  cd exploration.txt
+   85  code .
+   86  ls
+   87  code .
+   88  cd ..
+   89  ls
+   90  cd intro_to_command_line/
+   91  ls
+   92  code .
+   93  cd mansion
+   94  pwd
+   95  ls
+   96  cd entry_hall/
+   97  ls
+   98  cd coat_closet/
+   99  mkdir leather_coat
+  100  ls
+  101  cd ..
+  102  cd ..
+  103  cd east_wing/
+  104  ls
+  105  cd dining_room/
+  106  ls
+  107  rm sandwich.txt
+  108  ls
+  109  cp -r chair.txt chair_2.txt
+  110  cp -r chair.txt chair_3.txt
+  111  cp -r chair.txt chair_4.txt
+  112  ls
+  113  cd guest_bedroom
+  114  cd ../guest_bedroom
+  115  ls
+  116  cd ../..
+  117  ls -a
+  118  cd west_wing/master_bedroom/
+  119  ls
+  120  ls -a
+  121  cp -r mirror.txt smashed_mirror.txt
+  122  rm -r mirror.txt
+  123  ls
+  124  mkdir cardboard_box
+  125  mv smashed_mirror cardboard_box
+  126  mv smashed_mirror.txt cardboard_box
+  127  ls
+  128  cd .secret_passage/
+  129  ls
+  130  pwd
+  131  ls
+  132  ls -a
+  133  mv .family_heirloom.txt master_bedroom
+  134  ls
+  135  cd ..
+  136  ls
+  137  ls -a
+  138  rm -r .secret_passage/
+  139  ls
+  140  ls -a
+  141  cd ../..
+  142  cd ..
+  143  git status
+  144  git add .
+  145  git status
+  146  git remote -v
+  147  git commit -m "completed lab 1"
+  148  git push origin main
+  149  git status
+  150  git clone git@github.com:NBryant83/command-line-murder-mystery.git
+  151  cat mystery
+  152  cat hint1
+  153  ls
+  154  pwd
+  155  ls
+  156  cd command-line-murder-mystery/
+  157  ls
+  158  cd mystery/
+  159  ls
+  160  cat crimescene 
+  161  grep -r "CLUE" *
+  162  cat cheatsheet.md
+  163  cat cheatsheet.pdf
+  164  cat hint1
+  165  cat instructions
+  166  ls
+  167  cd ..
+  168  cat hint1
+  169  cat hint2
+  170  cat hint3
+  171  cat instructions
+  172  cat people
+  173  head -n 100 people
+  174  cat cheatsheet.md
+  175  mkdir solution.txt
+  176  ls
+  177  grep anabel
+  178  pwd
+  179  git clone git@github.com:NBryant83/command-line-murder-mystery.git
+  180  cd command-line-murder-mystery.git
+  181  cd command-line-murder-mystery/
+  182  code .
+  183  cd solution.txt
+  184  ls
+  185  cd ..
+  186  grep cat "CLUE"
+  187  grep "CLUE"
+  188  cd command-line-murder-mystery/
+  189  cat "CLUE"
+  190  grep -r "CLUE" *
+  191  grep -r "Annabel"
+  192  head -n 173 streets/Mattapan_Street | tail -n 1
+  193  head -n 20 people
+  194  head -n 20 
+  195  ls
+  196  cd mystery/
+  197  ls
+  198  cd people 
+  199  cd streets
+  200  ls
+  201  cd ..
+  202  people
+  203  rep -x "Height: 6'0" *
+  204  grep -x "Height: 6'0" *
+  205  grep 6'0
+  206  grep -o 6'0
+  207  grep -r "Annabel" *
+  208  grap -a 5 "L337" mystery/vehicles
+  209  grep -a 5 "L337" mystery/vehicles
+  210  grep -a "L337" *
+  211  git init
+  212  git status
+  213  git add
+  214  git add .
+  215  git commit -m "homework attempted"
+  216  git remote -v
+  217  git push origin main
+  218  git commit
+  219  git init
+  220  git add
+  221  git add .
+  222  git commit -m "homework attempted"
+  223  cd ..
+  224  git init
+  225  git add .
+  226  git commit
+  227  git remote -v
+  228  git push origin main
+  229  cd command-line-murder-mystery/
+  230  history
+  231  history >> solution.txt
+  232  solution.txt
+  233  ls
+  234  cd solution.txt
+  235  ls
+  236  history >> solution.txt
