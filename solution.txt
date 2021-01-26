@@ -1,0 +1,833 @@
+    1  vim .bash_profile
+    2  flutter --version
+    3  flutter -- version
+    4  which flutter
+    5  vim .bash_profile
+    6  flutter --version
+    7   echo $PATH
+    8  ls
+    9  cd Desktop
+   10  ls
+   11   echo $PATH
+   12  cd AppDev
+   13  ls
+   14   export PATH="$PATH:`pwd`/flutter/bin"
+   15  .zshrc
+   16  vim .zshrc
+   17  flutter --version
+   18  which flutter
+   19  flutter -v
+   20  ls
+   21   export PATH="$PATH:`pwd`/flutter/bin"
+   22  flutter doctor
+   23  ls
+   24  cd Desktop
+   25  ls
+   26  cd development
+   27  ls
+   28  $ unzip ~/Downloads/flutter_macos_v1.9.1+hotfix.6-stable.zip
+   29   export PATH="$PATH:`pwd`/flutter/bin"
+   30  flutter doctor
+   31  vim .zprofile
+   32  echo $PATH
+   33  which flutter
+   34  flutter --version
+   35  flutter doctor
+   36   sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer\n sudo xcodebuild -runFirstLaunch
+   37  curl https://install.meteor.com/ | sh
+   38  meteor --v
+   39  meteor --version
+   40  node -v
+   41  python -v
+   42  pwd
+   43  ls
+   44  ls -la
+   45  pwd
+   46  rm .meteor
+   47  rm dir .meteor
+   48  pwd
+   49  meteor uninstall
+   50  meteor reset
+   51  sudo mrt uninstall\nsudo mrt uninstall --system\nrm -rf ~/.meteorite
+   52  pwd
+   53  sudo rm /usr/local/bin/meteor\nrm -rf ~/.meteor
+   54  meteor --version
+   55  meteor -v
+   56  meteor --v
+   57  meteor --version
+   58  sudo chown -R $(whoami) ~/.npm
+   59  curl https://install.meteor.com/ | sh
+   60  echo $SHELL
+   61  node -v
+   62  node --version
+   63  pwd
+   64  cd ~
+   65  pwd
+   66  ls
+   67   node
+   68  const path = require('path');
+   69  pwd
+   70  ls
+   71  cd Desktop
+   72  ls
+   73  mkdir Just_test
+   74  cd Just_test
+   75  touch index.js
+   76  webStorm .
+   77  cd ..
+   78  webStorm .
+   79  WebStorm .
+   80  brew install node
+   81  node -v
+   82  pwd
+   83  ls
+   84  cd Desktop
+   85  ls
+   86  mkdir Calculator
+   87  cd Calculator
+   88  touch calculator.js
+   89  ls
+   90  npm init
+   91  cd ~
+   92  ls
+   93  cd ~
+   94  ls
+   95  atom .
+   96  pwd
+   97  ls
+   98  cd  Desktop
+   99  ls
+  100  cd nacci
+  101  ls -a
+  102  curl www.google.com
+  103  heroku login
+  104  brew install heroku/brew/heroku
+  105  heroku login
+  106  ls
+  107  cd Desktop
+  108  ls
+  109  cd delete
+  110  ls
+  111  nodemon app.js
+  112  node app.js
+  113  node --version
+  114  nodemon app.js
+  115  ls
+  116  ls
+  117  mongo
+  118  mongo
+  119  sudo brew tap mongodb/brew
+  120  brew tap mongodb/brew
+  121  brew install mongodb-community@4.2
+  122  ps aux | grep -v grep | grep mongod
+  123  mongo
+  124  sudo mv "/Users/blkboxng/Downloads/mongodb-macos-x86_64-4.2.3" /usr/local/mongodb
+  125  open /usr/local/mongodb
+  126  cd ~
+  127  touch .bash_profile
+  128  vim .bash_profile
+  129  mkdir -p /data/db
+  130  sudo mkdir -p /data/db
+  131  cd ~
+  132  brew install mongodb-community@4.2
+  133  brew reinstall mongodb-community
+  134  brew services start mongodb-community@4.2
+  135  mongo --version
+  136  mongod
+  137  cd ~
+  138  node --version
+  139  brew update
+  140  brew upgrade node
+  141  brew install mongodb/brew/mongodb-community-shell
+  142  mongo --version
+  143  mongo "mongodb+srv://users-ucqpp.mongodb.net/test"  --username admin-chris
+  144  window.screen
+  145  window.screen.width
+  146  pwd
+  147  ls 
+  148  cd Desktop
+  149  ls
+  150  ls 
+  151  pwd
+  152  cd Desktop
+  153  ls
+  154  ~
+  155  cd ~
+  156  ls
+  157  ls
+  158  cd Desktop
+  159  ls
+  160  ls
+  161  cd Desktop
+  162  touch dada.txt
+  163  ls
+  164  open -a Webstorm dada.txt
+  165  rm dada.txt
+  166  ls
+  167  pwd
+  168  node
+  169  ls
+  170  cd Desktop
+  171  mkdir Yaya
+  172  cd Yaya
+  173  touch lolo.js
+  174  npm init
+  175  Webstorm .
+  176  WebStorm .
+  177  open -a WebStorm
+  178  pwd
+  179  ls
+  180  cd Desktop
+  181  ls
+  182  rm r testpractice
+  183  ls
+  184  ls
+  185  rm -r testpractice
+  186  ls
+  187  pwd
+  188  ls 
+  189  cd Desktop
+  190  ls
+  191  cd publictradesproject
+  192  open -a PyCharm
+  193  pwd
+  194  cd ~
+  195  ls
+  196  node -v
+  197  git --v
+  198  git -v
+  199  git --version
+  200  git config --list
+  201  git config --global user.name "ChrisB"
+  202  git config --global user.email chrisbitoy@gmail.com
+  203  git config --list
+  204  ls
+  205  cd Desktop
+  206  ls
+  207  mkdir git-test
+  208  cd git-test
+  209  touch index.html
+  210  ls 
+  211  cd ../
+  212  ls
+  213  cd git-test
+  214  git init
+  215  git status
+  216  git add .
+  217  cd ~
+  218  ls
+  219  cd ~
+  220  node
+  221  pwd
+  222  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+  223  command -v nvm
+  224  nvm ls
+  225  nm ls
+  226  nvm ls
+  227  cd ~
+  228  pwd
+  229  ls l
+  230  ls -l
+  231  cd ~
+  232  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+  233  nvm ls
+  234  brew reinstall nvm
+  235  nvm ls
+  236  export NVM_DIR="$HOME/.nvm"\n. "/usr/local/opt/nvm/nvm.sh"
+  237  nvm ls
+  238  nvm install 8
+  239  nvm ls
+  240  ls -l
+  241  nvm ls
+  242  node -v
+  243  nvm -h
+  244  nvm h
+  245  nvm install 14
+  246  nvm ls
+  247  nvm -ls
+  248  nvm ls
+  249  node -v
+  250  curl -o- \nhttps://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+  251  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+  252  command -v nvm
+  253  export NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm\n[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+  254  command -v nvm
+  255  nano .zshrc
+  256  nano .zshrc
+  257  command -v nvm
+  258  nvm ls
+  259  nvm install 14
+  260  nvm ls
+  261  nvm use 8
+  262  nvm -h
+  263  nvm ls
+  264  nvm alias default 14.7.0
+  265  nvm ls
+  266  nvm h
+  267  nvm alias default node
+  268  nvm ls
+  269  echo $SHELL
+  270  pwd
+  271  ls
+  272  cd Desktop
+  273  le
+  274  ls
+  275  touch yeyeye.txt
+  276  open -a WebStorm yeyeye.txt
+  277  rm yeyeye.txt
+  278  node
+  279  which firebase
+  280  rm /usr/local/bin/firebase
+  281  which firebase
+  282  WebStorm .
+  283  nodemon app.js
+  284  pwd
+  285  ls -l
+  286  cd Desktop
+  287  cd Secrets\ -\ Starting\ Code
+  288  cd ..
+  289  open Secrets\ -\ Starting\ Code WebStorm
+  290  node -v
+  291  pwd
+  292  ~
+  293  pwd
+  294  ls
+  295  cd Desktop
+  296  ls
+  297  pwd
+  298  ls
+  299  cd Desktop
+  300  ls
+  301  mkdir learnnode
+  302  ls
+  303  cd learnnode
+  304  ls
+  305  ..
+  306  cd ..
+  307  open a learnnode WebStorm
+  308  cd learnnode
+  309  git init
+  310  touch .gitignore
+  311  ls -a
+  312  touch index.js
+  313  npm run dev
+  314  /usr/bin/clear; ssh -i '/Users/blkboxng/.bitnami/stackman/machines/wordpress/ssh/id_rsa' -o StrictHostKeyChecking=no 'root@192.168.64.2'
+  315  node-v
+  316  node-v
+  317  node -v
+  318  npx frontity create mentors-parlor
+  319  cd mentors-parlor && npx frontity dev
+  320  cd mentors-parlor
+  321  npx frontity dev
+  322  npm run dev
+  323  npm
+  324  npm start
+  325   npx frontity dev
+  326  pwd
+  327  pwd
+  328  ls-l
+  329  ls -l
+  330  cd Desktop
+  331  ls -l
+  332  pwd
+  333  cd mentorsparlor
+  334  npm install
+  335  npm run dev
+  336   npx frontity dev
+  337  Error: Cannot find module '@frontity/core'
+  338  npm run dev
+  339  npm run dev
+  340  pwd
+  341  cd mentors-parlor
+  342  npm run dev
+  343  npm run dev
+  344  pwd
+  345  npm run dev
+  346  npm run dev
+  347  cd..
+  348  cd..
+  349  cd ..
+  350  node -v
+  351  npm install -g gatsby-cli
+  352  cd~
+  353  cd ~
+  354  ls -l
+  355  cd Desktop
+  356  mkdir naccibro
+  357  cd naccibro
+  358  open naccibro
+  359  cd `
+  360  cd ~
+  361  git init
+  362  npm init
+  363  npm add --dev eslint
+  364  npm run eslint --init
+  365  npm run eslint -init
+  366  npm run eslint --init
+  367  npx eslint --init
+  368  npx eslint --init
+  369  npm install express
+  370  npm install express express-formidable
+  371  npm install admin-bro @admin-bro/express
+  372  npm install @admin-bro/mongoose
+  373  npm i mongoose
+  374  npm i nodemon
+  375  nodemon express.js
+  376  touch .gitignore
+  377  nodemon index.js
+  378  npm install
+  379  npm i nodemon
+  380  nodemon index.js
+  381  node index.js
+  382  npm install 'admin-bro-mongoose
+  383  npm install admin-bro-mongoose
+  384  nodemon index.js
+  385  npm install
+  386  nodmon index.js
+  387  nodemon index.js
+  388  npm install admin-bro @admin-bro/express
+  389  npm install express express-formidable
+  390  npm install @admin-bro/mongoose
+  391  touch express.js
+  392  nodemon express.js
+  393  pwd
+  394  ls -l
+  395  cd Desktop
+  396  mkdir nacciAdmin
+  397  cd nacciAdmin
+  398  npx create-strapi-app my-project --quickstart
+  399  mkdir pages
+  400  cd pages
+  401  touch index.js
+  402  mkdir pages
+  403  ls
+  404  rm index.js
+  405  ls
+  406  rm pages
+  407  rm -rf pages
+  408  ls
+  409  cd ..
+  410  ls
+  411  ls 
+  412  cd ..
+  413  ls
+  414  cd naccnaccadmn
+  415  cd naccadmn
+  416  ls
+  417  cd frontend
+  418  ls
+  419  mkdir pages
+  420  cd pages
+  421  touch index.js
+  422  yarn dev
+  423  cd ..
+  424  yarn dev
+  425  yarn run
+  426  next start
+  427  yarn
+  428  yarn dev
+  429  npm install react
+  430  yarn dev
+  431  cd ..
+  432  touch .gitignore
+  433  cd frontend
+  434  yarn add reactstrap bootstrap
+  435  cd pages
+  436  touch _app.js
+  437  ls 
+  438  cd ..
+  439  cd ..
+  440  cd frontend
+  441  yarn dev
+  442  pwd
+  443  mkdir components
+  444  cd components
+  445  touch Layout.js
+  446  gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world
+  447  cd hello-world
+  448  gatsby develop
+  449  pwd
+  450  cd Desktop
+  451  mkdir nacciAdmn
+  452  cd nacciAdmn
+  453  npx create-strapi-app my-nacciadmin --quickstart
+  454  cd ~
+  455  cd Desktop
+  456  mkdir naccadmn
+  457  cd naccadmn
+  458  mkdir frontend
+  459  cd frontend
+  460  yarn add next react-dom
+  461  npm run dev
+  462  pwd
+  463  ls -l
+  464  pwd
+  465  cd Desktop
+  466  mkdir nacc
+  467  pwd
+  468  cd Desktop
+  469  cd nacc
+  470  ls -l
+  471  npx create-strapi-app nacci
+  472  yarn develop
+  473  npm run dev
+  474  cd frontend
+  475  npx create-next-app
+  476  cd nacci
+  477  npm run dev
+  478  yarn dev
+  479  yarn dev
+  480  npx create-strapi-app .
+  481  pwd
+  482  ls -l
+  483  cd Desktop
+  484  mkkdir nacc
+  485  mkdir nacc
+  486  cd nacc
+  487  mkdir naccbackend
+  488  cd naccbackend
+  489  npx create-strapi-app .
+  490  ls
+  491  homebrew -v
+  492  homebrew --v
+  493  brew help
+  494  which brew
+  495  which brew
+  496  brew -v
+  497  type brew
+  498  brew doctor
+  499  xcode -select --install
+  500  xcode-select --install
+  501  Software Update
+  502  Software Update
+  503  xcode-select --install
+  504  sudo xcode-select --install
+  505  brew install --cask iterm2
+  506  echo $SHELL
+  507  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  508  brew upgrade git
+  509  brew install git
+  510  git --version
+  511  brew upgrade git
+  512  git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow
+  513  brew upgrade git
+  514  CODE
+  515  code ~/.zshrc
+  516  code
+  517  export EDITOR="code -w"
+  518  git config --global init.defaultBranch main
+  519  git config --global user.name "ChrisB007"
+  520  git config --global user.email "chrisbitoy@gmail.com"
+  521  git config --global push.default simple
+  522  git config --global credential.helper cache
+  523  git status
+  524  ssh-keygen -t ed25519 -C “chrisbitoy”@gmail.com”
+  525  eval "$(ssh-agent -s)"
+  526  open ~/.ssh/config
+  527  Host *\n AddKeysToAgent yes\n UseKeychain yes\n IdentityFile ~/.ssh/id_rsa
+  528  open ~/.ssh/config
+  529  ssh-add -K ~/.ssh/id_ed25519
+  530  pbcopy < ~/.ssh/id_ed25519.pub
+  531  code
+  532  pwd
+  533  cd naccfrontend
+  534  npm install tailwindcss@latest postcss@latest autoprefixer@latest
+  535  sudo npm install -g npm
+  536  npx tailwindcss init -p
+  537  mkdir naccfrontend
+  538  cd naccfrontend
+  539  npx create-next-app .
+  540  yarn dev
+  541  cd naccbackend
+  542  npm run develop
+  543  git --version
+  544  brew reinstall git
+  545  git --version
+  546  brew install git
+  547  brew link git
+  548  brew link --overwrite git
+  549  git --version
+  550  pwd
+  551  ls -l
+  552  cd Desktop
+  553  mkdir gaProject
+  554  cd gaProject
+  555  git init
+  556  pwd
+  557  mkdir weekone
+  558  cd weekone
+  559  mkdir dayone
+  560  cd da
+  561  cd dayone
+  562  git init
+  563  git remote add git@github.com:ChrisB007/gitpractice.git
+  564  git remote add origin git@github.com:ChrisB007/gitpractice.git
+  565  git push -u origin main
+  566  git push
+  567  git push --set-upstream origin main
+  568  remote -v
+  569  git status
+  570  touch index/html
+  571  touch index.html
+  572  code
+  573  git add .
+  574  git commit -m "first commit"
+  575  git push 
+  576  git push --set-upstream origin main
+  577  git pull
+  578  git status
+  579  git branch
+  580  pwd
+  581  cd Desktop
+  582  ls
+  583  cd gaProject
+  584  ls
+  585  cd weekone
+  586  ls
+  587  cd dayone
+  588  ls
+  589  git push
+  590  git push --set-upstream origin main
+  591  git push -f <remote> <branch>
+  592  git push -f git pull
+  593  git pull
+  594  git branch --set-upstream-to=origin/<branch> main
+  595  git brach --sset-upstream-to=origin/git@github.com:ChrisB007/gitpractice.git main
+  596  git remote add origin git@github.com:ChrisB007/gitpractice.git
+  597  git push -u origin master
+  598  git remote add origin git@github.com:ChrisB007/gitpractice.git
+  599  git push
+  600  git push --set-upstream origin main
+  601  git remote
+  602  git remote add origin git@github.com:ChrisB007/gitpractice.git\ngit push -u origin main
+  603  git clone git@github.com:ChrisB007/gitpractice.git
+  604  git add .
+  605  git commit -m "first push"
+  606  git push
+  607  git push --set-upstream origin main
+  608  git fetch
+  609  git push
+  610  git push --set-upstream origin main
+  611  ls
+  612  rm index.html
+  613  ls
+  614  rm gitpractice
+  615  rm -f gitpractice
+  616  rm -rf gitpractice
+  617  ls 
+  618  git clone git@github.com:ChrisB007/yet-another-git-practice-pull-request.git
+  619  touch bestfileever.txt
+  620  code
+  621  echo "This is the first line" >> bestfileever.txt
+  622  cat bestfileever.txt
+  623  git add bestfileever.txt
+  624  git commit -m "best file from chris and chris"
+  625  git push origin main
+  626  git push
+  627  git status
+  628  git branch
+  629  git remote -v
+  630  git checkout main
+  631  ls
+  632  cd ..
+  633  cd dayone
+  634  cd yet-another-git-practice-pull-request
+  635  touch bestfileever2.txt
+  636  echo "best file from us"
+  637  echo "best file from chris and chris" >> bestfileever2.txt
+  638  git add bestfileever2.txt
+  639  git commit -m "first commit from Chris and Chris"
+  640  git push
+  641  git status
+  642  cd ..
+  643  ls
+  644  rm bestfileever.txt
+  645  ls
+  646  git status
+  647  git clone https://github.com/SEI-SEA-1-25/intro_to_command_line.git
+  648  code .
+  649  ls 
+  650  rm -rf intro_to_command_line yet-another-git-practice-pull-request
+  651  ls 
+  652  git clone git@github.com:ChrisB007/intro_to_command_line.git
+  653  pwd
+  654  ls 
+  655  cd Desktop
+  656  cd gaProject
+  657  ls
+  658  cd weekone
+  659  ls
+  660  cd dayone
+  661  ls
+  662  git clone git@github.com:ChrisB007/intro_to_command_line.git
+  663  code .
+  664  cd intro_to_command_line
+  665  cd mansion
+  666  ls 
+  667  cd entry_hall
+  668  ls
+  669  cd coat_closet
+  670  ls
+  671  touch new_coat.txt
+  672  ls
+  673  cd ..
+  674  cd east_wing
+  675  ls
+  676  ls -a
+  677  cd dining_room
+  678  ls 
+  679  rm sandwich.txt
+  680  ls
+  681  ls -a
+  682  cp chair_2.txt 
+  683  cp chair.txt * 4 
+  684  ls -a
+  685  cp chair_2.txt
+  686  cp chair.txt
+  687  ls -a
+  688  cp chair.txt
+  689  echo chair_2.txt  >> dining_room
+  690  ls -a
+  691  rm dining_room
+  692  echo "chair_2.txt"
+  693  ls -a
+  694  cp chair.txt
+  695  cp chair.txt chair_2.txt
+  696  ls -a
+  697  cp chair.txt chair_3.txt
+  698  cp chair.txt chair_4.txt
+  699  ls -a
+  700  pwd
+  701  cd ..
+  702  ls -a
+  703  cd dining_room
+  704  cd ../.. guest_bedroom
+  705  cd / guest_room
+  706  cd ../..
+  707  cd east_wing/dining_room
+  708  cd ../guest_bedroom/
+  709  ls -a
+  710  cd ../..
+  711  ls -a
+  712  cd west_wing
+  713  cd ..
+  714  cd west_wing/master_bedroom
+  715  ls -la
+  716  mv mirror.txt smashed_mirror.txt
+  717  ls -la
+  718  ls -a
+  719  mkdir cardboard_box
+  720  mv smashed_mirror.txt cardboard_box
+  721  ls -a
+  722  cd cardboard_box
+  723  ls -a
+  724  cd ..
+  725  cd .secret_passage
+  726  ls -a
+  727  mv .family_heirloom.txt cd ..
+  728  mv .family_heirloom.txt cd/
+  729  mv .family_heirloom.txt/
+  730  move .family_heirloom.txt master_bedroom
+  731  mv .family_heirloom.txt master_bedroom
+  732  mv .family_heirloom.txt ..
+  733  pwd
+  734  ls -la
+  735  cd ..
+  736  pwd
+  737  ls -la
+  738  rm -rf .secret_passage
+  739  ls -la
+  740  cd ../..
+  741  code .
+  742  cd ..
+  743  ls
+  744  code .
+  745  git status
+  746  git add .
+  747  git commit -m "intro to command line"
+  748  git push
+  749  cd ..
+  750  pwd
+  751  mkdir daytwo
+  752  cd daytwo
+  753  git status
+  754  git clone git@github.com:ChrisB007/command-line-murder-mystery.git
+  755  code .
+  756  cat instructions
+  757  pwd
+  758  ls
+  759  cd command-line-murder-mystery
+  760  cat instructions
+  761  ls -la
+  762  code .
+  763  cd mystery
+  764  ls
+  765  cat crimescene
+  766  code .
+  767  cd ..
+  768  lss -la
+  769  ls -la
+  770  cat instructions
+  771  lss -la
+  772  ls -la
+  773  cd mystery
+  774  ls -la
+  775  cat crimescene
+  776  cd ..
+  777  code .
+  778  ls -la
+  779  cat instructions
+  780  code .
+  781  cat hint1
+  782  cat hint2
+  783  grep "CLUE" crimescene%
+  784  ls -la
+  785  cd mystery
+  786  grep "CLUE" crimescene
+  787  cd ..
+  788  ls -la
+  789  cat hint3
+  790  cat hint4
+  791  hint5
+  792  cat hint5
+  793  hint1
+  794  cat hint1
+  795  head -n 20 people
+  796  ls -la
+  797  cd mystery
+  798  ls -la
+  799  cat crimescene
+  800  head -n 20 people
+  801  cd ..
+  802  ls -la
+  803  cd mystery
+  804  ls -la
+  805  cd streets
+  806  ls -la
+  807  cat solution
+  808  cd ..
+  809  cat solution
+  810  ls -la
+  811  cd ..
+  812  cat solution
+  813  ls -l
+  814  cat instructions
+  815  cd mystery
+  816  ls -la
+  817  code crimescene
+  818  CD ..
+  819  ls -la
+  820  cd ..
+  821  ls -la
+  822  hint1
+  823  cat hint1
+  824  head -n 20 streets
+  825  cd mystery
+  826  head -n 20 streets
+  827  head -n 20 people
+  828  ls -l
+  829  cd streets
+  830  ls -l
+  831  cd ..
+  832  cat cheatsheet.md
+  833  code .
