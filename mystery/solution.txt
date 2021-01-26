@@ -1,0 +1,249 @@
+    1  brew install git\n
+    2  git --version
+    3  brew upgrade git
+    4  git --version
+    5  brew install --cask visual-studio-code
+    6  code
+    7  code ~/.zshrc
+    8  cd desktop
+    9  git config --global init.defaultBranch main
+   10  git config --global user.name "gndm"
+   11  git config --global user.email "demoura.gabe@gmail.com"
+   12  git config --global push.default simple
+   13  git config --global credential.helper cache
+   14  ls -al ~/.ssh
+   15  ssh-keygen -t ed25519 -C "demoura.gabe@gmail.com"
+   16  eval "$(ssh-agent -s)"
+   17  open ~/.ssh/config
+   18  touch ~/.ssh/config
+   19  ~/.ssh/config
+   20  open ~/.ssh/config
+   21  ssh-add -K ~/.ssh/id_ed25519
+   22  pbcopy < ~/.ssh/id_ed25519.pub
+   23  git --version
+   24  mkdir code
+   25  ls
+   26  cd code
+   27  mkdir w1
+   28  cd w1
+   29  mkdir d1
+   30  cd d1
+   31  pwd
+   32  mkdir git_practice
+   33  cd git_practice
+   34  git init
+   35  ls -a
+   36  touch resume.txt
+   37  ls
+   38  git status
+   39  git add resume.txt
+   40  git status
+   41  git commit -m 'Initial Commit - added the resume'
+   42  echo "Gabe's cool resume, hire me please\necho "Gabes cool project"\ngit status 
+   43  git log
+   44  echo 'Gabes resume' >> resume.txt
+   45  cat resume.txt
+   46  git remote -v
+   47  git remote add origin git@github.com:gndm/git_practice2.git
+   48  git remote -v
+   49  git push -u origin main
+   50  cd ..
+   51  git clone git@github.com:gndm/git-pull-request-practice.git
+   52  ls
+   53  cd git-pull-request-practice
+   54  ls
+   55  touch gabedemoura.txt
+   56  echo "Focus" >> gabedemoura.txt
+   57  git status
+   58  git add gabedemoura.txt
+   59  git commit -m "Adding txt file"
+   60  git push origin main
+   61  clone git@github.com:gndm/yet-another-git-practice-pull-request.git
+   62  git clone git@github.com:gndm/yet-another-git-practice-pull-request.git
+   63  cd another-git-practice-pull-request
+   64  ls
+   65  cd yea-another-git-practice-pull-request
+   66  cd yet-another-git-practice-pull
+   67  cd yet-another-git-practice-pull-request
+   68  touch gabepractice.txt
+   69  ls 
+   70  echo "sample text" >> gabepractice.txt
+   71  cat gabepractice.txt
+   72  git status
+   73  git add gabepractice.txt
+   74  git status
+   75  git commit -m "Created txt file and added sample text"
+   76  git push origin main
+   77  pwd
+   78  cd..
+   79  cd ..
+   80  pwd
+   81  rm -rf yet-another-git-practice-pull-request
+   82  cd ..
+   83  git status
+   84  git clone git@github.com:gndm/intro_to_command_line.git
+   85  cd intro_to_command_line
+   86  code .
+   87  cd mansion 
+   88  ls
+   89  cd entry_hall
+   90  ls 
+   91  cd coat_closet
+   92  ls
+   93  touch coatOff
+   94  cd ..
+   95  cd east_wing
+   96  ls
+   97  cd dining_room
+   98  ls
+   99  rm -rf sandwich.txt
+  100  cp chair.txt chair2.txt
+  101  cp chair.txt chair3.txt
+  102  cp chair.txt chair4.txt
+  103  ls 
+  104  cp chair.txt chair5.txt chair6.txt
+  105  ls
+  106  cd ./guest_bedroom
+  107  cd ../guest_bedroom
+  108  cd ../..
+  109  cd west_wing/master_bedroom
+  110  ls -a
+  111  pwd
+  112  mv mirror.txt smashed_mirror.txt
+  113  ls
+  114  mkdir cardboard_box
+  115  mv smashed_mirror.txt cardboard_box
+  116  ls
+  117  ls -a
+  118  cd .secret_passage
+  119  ls 
+  120  ls -a
+  121  mv .family_heirloom.txt master_bedroom
+  122  cd ..
+  123  rm -rf ..secret_passage
+  124  ls -a
+  125  rm -rf .secret_passage
+  126  ls -a
+  127  cd ../..
+  128  cd master_bedroom
+  129  cd west_wing/master_bedroom
+  130  ls
+  131  git status
+  132  git add ../../east_wing/dining_room/chair2.txt
+  133  git add ../../east_wing/dining_room/chair3.txt
+  134  git add ../../east_wing/dining_room/chair4.txt
+  135  git add ../../entry_hall/coat_closet/coatOff\n\tcardboard_box/
+  136  git status
+  137  git add  ../../../../exploration.txt
+  138  git status
+  139  git add \tdeleted:    ../../../east_wing/dining_room/sandwich.txt
+  140  git add ../../../east_wing/dining_room/sandwich.txt
+  141  git add ../.secret_passage/.family_heirloom.txt
+  142  git status
+  143  git commit -m "Made several changes"
+  144  git push origin main
+  145  cd ..
+  146  ls -a
+  147  cd ..
+  148  cd
+  149  pwd
+  150  cd /code/w1
+  151  cd ./code/w1
+  152  mkdir homework1
+  153  cd homework1
+  154  git clone git@github.com:gndm/command-line-murder-mystery.git
+  155  cd command-line-murder-mystery
+  156  code .
+  157  cd ./mystery/crimescene
+  158  ls
+  159  cd mystery
+  160  ls
+  161  cd crimescene
+  162  code .
+  163  head crimescene
+  164  head -n 100 crimescene
+  165  grep "CLUE" crimescene
+  166  head -50 people
+  167  grep "NEW ZEALAND" people
+  168  head -50 vehicles
+  169  head -200 vehicles
+  170  grep "HEIGHT: 6" vehicles
+  171  grep "6" vehicles
+  172  grep "Annabel" people
+  173  grep "clue" crimescene
+  174  grep "CLUE" crimescene
+  175  head -20 vehicles
+  176  grep "Oluwasegun Annabel" vehicles
+  177  grep oluwasegun*
+  178  grep oluwasegun *
+  179  grep annabel *
+  180  grep -r annabel
+  181  grep -oP 'Annabel'
+  182  grep -oP 'Annabel' vehicles
+  183  ls
+  184  cd interviews
+  185  ls
+  186  cd ..
+  187  head -n 37 streets/Mattapan_Street | tail -n 1
+  188  head -n 173 streets/Mattapan_Street | tail -n 1
+  189  grep "INTERVIEW #9437737" interviews
+  190  cd interviews
+  191  grep "INTERVIEW #9437737"
+  192  cd INTERVIEW #9437737
+  193  head INTERVIEW #9437737
+  194  cd ..
+  195  head -n 176 streets/Haley_Street | tail -n 1
+  196  head -n 40 streets/Hart_Place | tail -n 1
+  197  head -n 179 streets/Buckingham_Place | tail -n 1
+  198  grep -A 5 "Oluwasegun Annabe" mystery/vehicles
+  199  grep -A 5 "Oluwasegun Annabe" vehicles
+  200  grep -A 5 "Annabel Sun" vehicles
+  201  grep -A 5 "Annabel Church" vehicles
+  202  grep -A 5 "Annabel Fuglsang" vehicles
+  203  cd memeberships
+  204  cd memberships
+  205  ls
+  206  cat AAA |grep "Annabel Fuglsang"
+  207  cat AAA |grep -c "Annabel Fuglsang"
+  208  cd .. 
+  209  cd interviews
+  210  cat INTERVIEW #871877
+  211  cat "INTERVIEW #871877"
+  212  cat AAA |grep -c Annabel*
+  213  cat AAA |grep -c "Annabel"
+  214  cat Delta_SkyMiles |grep -c "Annabel Fuglsang"
+  215  cat Delta_SkyMiles | grep -c "Annabel Fuglsang"
+  216  cd ..
+  217  cd memberships
+  218  cat Delta_SkyMiles | grep -c "Annabel Fuglsang"
+  219  cat Delta_SkyMiles | grep -c "Oluwasegun Annabel"
+  220  cat Delta_SkyMiles | grep -c "Annabel Sun"
+  221  cat Delta_SkyMiles | grep -c "Annabel Church"
+  222  cd ..
+  223  grep "Annabel" people
+  224  cd interviews
+  225  cat 
+  226  ls
+  227  cat interview-871877
+  228  cat interview-9437737
+  229  cat interview-47246024
+  230  cat interview-699607
+  231  grep -A 5 "L337" mystery/vehicles
+  232  cd ..
+  233  grep -A 5 "L337" vehicles
+  234  cd memberships
+  235  ls
+  236  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Joe Germuska"
+  237  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Joe Germuska"
+  238  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Jeremy Bowers"
+  239  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Jacqui Maher"
+  240  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Erika Owens"
+  241  cat library.txt | grep "Jeremy Bowers"
+  242  git status
+  243  cd ..
+  244  touch solution.txt
+  245  history
+  246  echo "  152  mkdir homework1\n  153  cd homework1\n  154  git clone git@github.com:gndm/command-line-murder-mystery.git\n  155  cd command-line-murder-mystery\n  156  code .\n  157  cd ./mystery/crimescene\n  158  ls\n  159  cd mystery\n  160  ls\n  161  cd crimescene\n  162  code .\n  163  head crimescene\n  164  head -n 100 crimescene\n  165  grep "CLUE" crimescene\n  166  head -50 people\n  167  grep "NEW ZEALAND" people\n  168  head -50 vehicles\n  169  head -200 vehicles\n  170  grep "HEIGHT: 6" vehicles\n  171  grep "6" vehicles\n  172  grep "Annabel" people\n  173  grep "clue" crimescene\n  174  grep "CLUE" crimescene\n  175  head -20 vehicles\n  176  grep "Oluwasegun Annabel" vehicles\n  177  grep oluwasegun*\n  178  grep oluwasegun *\n  179  grep annabel *\n  180  grep -r annabel\n  181  grep -oP 'Annabel'\n  182  grep -oP 'Annabel' vehicles\n  183  ls\n  184  cd interviews\n  185  ls\n  186  cd ..\n  187  head -n 37 streets/Mattapan_Street | tail -n 1\n  188  head -n 173 streets/Mattapan_Street | tail -n 1\n  189  grep "INTERVIEW #9437737" interviews\n  190  cd interviews\n  191  grep "INTERVIEW #9437737"\n  192  cd INTERVIEW #9437737\n  193  head INTERVIEW #9437737\n  194  cd ..\n  195  head -n 176 streets/Haley_Street | tail -n 1\n  196  head -n 40 streets/Hart_Place | tail -n 1\n  197  head -n 179 streets/Buckingham_Place | tail -n 1\n  198  grep -A 5 "Oluwasegun Annabe" mystery/vehicles\n  199  grep -A 5 "Oluwasegun Annabe" vehicles\n  200  grep -A 5 "Annabel Sun" vehicles\n  201  grep -A 5 "Annabel Church" vehicles\n  202  grep -A 5 "Annabel Fuglsang" vehicles\n  203  cd memeberships\n  204  cd memberships\n  205  ls\n  206  cat AAA |grep "Annabel Fuglsang"\n  207  cat AAA |grep -c "Annabel Fuglsang"\n  208  cd ..\n  209  cd interviews\n  210  cat INTERVIEW #871877\n  211  cat "INTERVIEW #871877"\n  212  cat AAA |grep -c Annabel*\n  213  cat AAA |grep -c "Annabel"\n  214  cat Delta_SkyMiles |grep -c "Annabel Fuglsang"\n  215  cat Delta_SkyMiles | grep -c "Annabel Fuglsang"\n  216  cd ..\n  217  cd memberships\n  218  cat Delta_SkyMiles | grep -c "Annabel Fuglsang"\n  219  cat Delta_SkyMiles | grep -c "Oluwasegun Annabel"\n  220  cat Delta_SkyMiles | grep -c "Annabel Sun"\n  221  cat Delta_SkyMiles | grep -c "Annabel Church"\n  222  cd ..\n  223  grep "Annabel" people\n  224  cd interviews\n  225  cat\n  226  ls\n  227  cat interview-871877\n  228  cat interview-9437737\n  229  cat interview-47246024\n  230  cat interview-699607\n  231  grep -A 5 "L337" mystery/vehicles\n  232  cd ..\n  233  grep -A 5 "L337" vehicles\n  234  cd memberships\n  235  ls\n  236  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Joe Germuska"\n  237  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Joe Germuska"\n  238  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Jeremy Bowers"\n  239  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Jacqui Maher"\n  240  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Erika Owens"\n  241  cat library.txt | grep "Jeremy Bowers"\n  242  git status\n  243  cd ..\n  244  touch solution.txt" >> solution.txt
+  247  ls
+  248  echo "  152  mkdir homework1\n  153  cd homework1\n  154  git clone git@github.com:gndm/command-line-murder-mystery.git\n  155  cd command-line-murder-mystery\n  156  code .\n  157  cd ./mystery/crimescene\n  158  ls\n  159  cd mystery\n  160  ls\n  161  cd crimescene\n  162  code .\n  163  head crimescene\n  164  head -n 100 crimescene\n  165  grep "CLUE" crimescene\n  166  head -50 people\n  167  grep "NEW ZEALAND" people\n  168  head -50 vehicles\n  169  head -200 vehicles\n  170  grep "HEIGHT: 6" vehicles\n  171  grep "6" vehicles\n  172  grep "Annabel" people\n  173  grep "clue" crimescene\n  174  grep "CLUE" crimescene\n  175  head -20 vehicles\n  176  grep "Oluwasegun Annabel" vehicles\n  177  grep oluwasegun*\n  178  grep oluwasegun *\n  179  grep annabel *\n  180  grep -r annabel\n  181  grep -oP 'Annabel'\n  182  grep -oP 'Annabel' vehicles\n  183  ls\n  184  cd interviews\n  185  ls\n  186  cd ..\n  187  head -n 37 streets/Mattapan_Street | tail -n 1\n  188  head -n 173 streets/Mattapan_Street | tail -n 1\n  189  grep "INTERVIEW #9437737" interviews\n  190  cd interviews\n  191  grep "INTERVIEW #9437737"\n  192  cd INTERVIEW #9437737\n  193  head INTERVIEW #9437737\n  194  cd ..\n  195  head -n 176 streets/Haley_Street | tail -n 1\n  196  head -n 40 streets/Hart_Place | tail -n 1\n  197  head -n 179 streets/Buckingham_Place | tail -n 1\n  198  grep -A 5 "Oluwasegun Annabe" mystery/vehicles\n  199  grep -A 5 "Oluwasegun Annabe" vehicles\n  200  grep -A 5 "Annabel Sun" vehicles\n  201  grep -A 5 "Annabel Church" vehicles\n  202  grep -A 5 "Annabel Fuglsang" vehicles\n  203  cd memeberships\n  204  cd memberships\n  205  ls\n  206  cat AAA |grep "Annabel Fuglsang"\n  207  cat AAA |grep -c "Annabel Fuglsang"\n  208  cd ..\n  209  cd interviews\n  210  cat INTERVIEW #871877\n  211  cat "INTERVIEW #871877"\n  212  cat AAA |grep -c Annabel*\n  213  cat AAA |grep -c "Annabel"\n  214  cat Delta_SkyMiles |grep -c "Annabel Fuglsang"\n  215  cat Delta_SkyMiles | grep -c "Annabel Fuglsang"\n  216  cd ..\n  217  cd memberships\n  218  cat Delta_SkyMiles | grep -c "Annabel Fuglsang"\n  219  cat Delta_SkyMiles | grep -c "Oluwasegun Annabel"\n  220  cat Delta_SkyMiles | grep -c "Annabel Sun"\n  221  cat Delta_SkyMiles | grep -c "Annabel Church"\n  222  cd ..\n  223  grep "Annabel" people\n  224  cd interviews\n  225  cat\n  226  ls\n  227  cat interview-871877\n  228  cat interview-9437737\n  229  cat interview-47246024\n  230  cat interview-699607\n  231  grep -A 5 "L337" mystery/vehicles\n  232  cd ..\n  233  grep -A 5 "L337" vehicles\n  234  cd memberships\n  235  ls\n  236  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Joe Germuska"\n  237  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Joe Germuska"\n  238  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Jeremy Bowers"\n  239  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Jacqui Maher"\n  240  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Erika Owens"\n  241  cat library.txt | grep "Jeremy Bowers"\n  242  git status\n  243  cd ..\n  244  touch solution.txt" >> solution.txt\n
+  249  echo "  152  mkdir homework1\n  153  cd homework1\n  154  git clone git@github.com:gndm/command-line-murder-mystery.git\n  155  cd command-line-murder-mystery\n  156  code .\n  157  cd ./mystery/crimescene\n  158  ls\n  159  cd mystery\n  160  ls\n  161  cd crimescene\n  162  code .\n  163  head crimescene\n  164  head -n 100 crimescene\n  165  grep "CLUE" crimescene\n  166  head -50 people\n  167  grep "NEW ZEALAND" people\n  168  head -50 vehicles\n  169  head -200 vehicles\n  170  grep "HEIGHT: 6" vehicles\n  171  grep "6" vehicles\n  172  grep "Annabel" people\n  173  grep "clue" crimescene\n  174  grep "CLUE" crimescene\n  175  head -20 vehicles\n  176  grep "Oluwasegun Annabel" vehicles\n  177  grep oluwasegun*\n  178  grep oluwasegun *\n  179  grep annabel *\n  180  grep -r annabel\n  181  grep -oP 'Annabel'\n  182  grep -oP 'Annabel' vehicles\n  183  ls\n  184  cd interviews\n  185  ls\n  186  cd ..\n  187  head -n 37 streets/Mattapan_Street | tail -n 1\n  188  head -n 173 streets/Mattapan_Street | tail -n 1\n  189  grep "INTERVIEW #9437737" interviews\n  190  cd interviews\n  191  grep "INTERVIEW #9437737"\n  192  cd INTERVIEW #9437737\n  193  head INTERVIEW #9437737\n  194  cd ..\n  195  head -n 176 streets/Haley_Street | tail -n 1\n  196  head -n 40 streets/Hart_Place | tail -n 1\n  197  head -n 179 streets/Buckingham_Place | tail -n 1\n  198  grep -A 5 "Oluwasegun Annabe" mystery/vehicles\n  199  grep -A 5 "Oluwasegun Annabe" vehicles\n  200  grep -A 5 "Annabel Sun" vehicles\n  201  grep -A 5 "Annabel Church" vehicles\n  202  grep -A 5 "Annabel Fuglsang" vehicles\n  203  cd memeberships\n  204  cd memberships\n  205  ls\n  206  cat AAA |grep "Annabel Fuglsang"\n  207  cat AAA |grep -c "Annabel Fuglsang"\n  208  cd ..\n  209  cd interviews\n  210  cat INTERVIEW #871877\n  211  cat "INTERVIEW #871877"\n  212  cat AAA |grep -c Annabel*\n  213  cat AAA |grep -c "Annabel"\n  214  cat Delta_SkyMiles |grep -c "Annabel Fuglsang"\n  215  cat Delta_SkyMiles | grep -c "Annabel Fuglsang"\n  216  cd ..\n  217  cd memberships\n  218  cat Delta_SkyMiles | grep -c "Annabel Fuglsang"\n  219  cat Delta_SkyMiles | grep -c "Oluwasegun Annabel"\n  220  cat Delta_SkyMiles | grep -c "Annabel Sun"\n  221  cat Delta_SkyMiles | grep -c "Annabel Church"\n  222  cd ..\n  223  grep "Annabel" people\n  224  cd interviews\n  225  cat\n  226  ls\n  227  cat interview-871877\n  228  cat interview-9437737\n  229  cat interview-47246024\n  230  cat interview-699607\n  231  grep -A 5 "L337" mystery/vehicles\n  232  cd ..\n  233  grep -A 5 "L337" vehicles\n  234  cd memberships\n  235  ls\n  236  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Joe Germuska"\n  237  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Joe Germuska"\n  238  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Jeremy Bowers"\n  239  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Jacqui Maher"\n  240  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Erika Owens"\n  241  cat library.txt | grep "Jeremy Bowers"\n  242  git status\n  243  cd ..\n  244  touch solution.txt" > solution.txt
