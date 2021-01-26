@@ -1,4 +1,5 @@
-To see who was a member of several different groups, you can combine their membership lists into one and search against that.
+To see who was a member of several different groups, you can combine 
+their membership lists into one and search against that.
 
 	cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
 

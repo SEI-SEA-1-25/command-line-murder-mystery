@@ -1,0 +1,77 @@
+
+
+CLUE 1: Footage from an ATM security camera is blurry but shows that the perpetrator is at least 6' tall.
+
+CLUE 2: Found a wallet believed to belong to the killer: no ID, just loose change, 
+        and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. 
+        The cards are totally untraceable and have no name, for some reason.
+
+CLUE 3: Questioned the barista at the local coffee shop. 
+        He said a person left right before they heard the shots. 
+        The name on their latte was Annabel, they had blond spiky hair and a New Zealand accent.
+
+
+
+latest clue 4: However, they report seeing the car that fled the scene. 
+             Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9"
+
+
+latest clue 5: Mr. Fuglsang has brown hair.  Not the witness from the cafe.
+
+----------------------------------------
+ 23364	License Plate 20VVU2P
+ 23365	Make: Mazda
+ 23366	Color: Pink
+ 23367	Owner: Annabel Fuglsang
+ 23368	Height: 5'11"
+ 23369	Weight: 241 lbs
+
+License Plate 9R7TTGF
+Make: Volkswagen
+Color: Yellow
+Owner: Oluwasegun Annabel
+Height: 5'1"
+Weight: 240 lbs
+
+License Plate L2E48EF
+Make: BMW
+Color: Orange
+Owner: Annabel Church
+Height: 5'5"
+Weight: 201 lbs
+
+License Plate 0O27BTD
+Make: Fiat
+Color: Yellow
+Owner: Annabel Sun
+Height: 5'0"
+Weight: 232 lbs
+-------------------------------------------
+
+License Plate L337369
+Make: Honda
+Color: Blue
+Owner: Heather Billings
+Height: 5'2"
+Weight: 244 lbs
+
+License Plate L337DV9
+Make: Honda
+Color: Blue
+Owner: Joe Germuska ---------------------- 
+Height: 6'2"
+Weight: 164 lbs
+
+License Plate L3375A9
+Make: Honda
+Color: Blue
+Owner: Jeremy Bowers ---------------------- this guy
+Height: 6'1"
+Weight: 204 lbs
+
+License Plate L337WR9
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
