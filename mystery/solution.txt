@@ -1,0 +1,198 @@
+    1  git config --global user.name "kchu01"
+    2  cd
+    3  cd /c
+    4  ls
+    5  cd git/
+    6  ls
+    7  git config --global user.name "kchu01"
+    8  git congif --global user.email "chukathy01@gmail.com"
+    9  git config --global user.email "chukathy01@gmail.com"
+   10  git clone https://github.com/kchu01/TestGit.git
+   11  ls
+   12  cd TestGit/
+   13  ls
+   14  git config --global push.default simple
+   15  git config --global credential.helper cache
+   16  ssh-keygen -t ed25519 -C "your_email@example.com""chukathy01@gmail.com"
+   17  eval `ssh-agent -s`
+   18  ssh-add ~/.ssh/1191
+   19  eval `ssh-agent -s`
+   20  ssh-add ~/.shh-agent -$)
+   21  ssh-add ~/.ssh/Ahaa3478!
+   22  eval `ssh-agent-s`
+   23  eval `ssh-agent -s`
+   24  ls ~/.ssh
+   25  ssh-add ~/.ssh/id_ed25519
+   26  cat ~/.ssh/id_ed25519.pub
+   27  git@github.com:kchu01/command-line-murder-mystery.git
+   28  cd ~/Desktop/
+   29  git clone https://github.com/kchu01/command-line-murder-mystery.git
+   30  cd ~/Desktop/
+   31  git clone git@github.com:kchu01/command-line-murder-mystery.git
+   32  git clone https://github.com/kchu01/command-line-murder-mystery.git
+   33  cd ~/Desktop/
+   34  git clone https://github.com/kchu01/command-line-murder-mystery.git
+   35  ls
+   36  cd ~C
+   37  cd C/
+   38  cd documents
+   39  cd documents
+   40  git clone git@github.com:kchu01/command-line-murder-mystery.git
+   41  cat instructions
+   42  ls
+   43  cd command-line-murder-mystery/
+   44  cat instructions
+   45  cheatsheet.md
+   46  cat cheatsheet.md
+   47  ls
+   48  cat hint1
+   49  head -n 20 people
+   50  head -n 20 people.txt
+   51  cat hint2
+   52  grep "CLUE"
+   53  cd ~/Desktop/
+   54  ls
+   55  cd command-line-murder-mystery
+   56  ls
+   57  cat instructions
+   58  cat cheatsheet.md
+   59  cat hint1
+   60  head -n 20 intructions
+   61  head -n 20 people 
+   62  cd hint1
+   63  ls
+   64  cat instructions
+   65  nano cheatsheet.md
+   66  cd ~/Desktop/
+   67  ls
+   68  cd command-line-murder-mystery
+   69  cat instructions
+   70  ls
+   71  cat hint1
+   72  head -n 20 people
+   73  head -n 20 instructions
+   74  cat people
+   75  sort
+   76  grep clue
+   77  grep "CLUE"
+   78  cat hint2
+   79  grep "CLUE" crimescene
+   80  ls
+   81  cat solution
+   82  ls
+   83  cd mystery/
+   84  head -n 20 people
+   85  cd streets/
+   86  ls
+   87  cat line 33
+   88  cat line 433
+   89  cd ..
+   90  cat hint2
+   91  ls
+   92  cd interviews/
+   93  ls
+   94  cd ..
+   95  cd ..
+   96  ls
+   97  cat hint2
+   98  cd mystery/
+   99  ls
+  100  cd crimescene/
+  101  grep "CLUE" crimescene
+  102  cd interviews/
+  103  ls
+  104  cd ..
+  105  cd memberships/
+  106  ls
+  107  cat AAA
+  108  cd ..
+  109  head people
+  110  cat line 433
+  111  cat line line 390
+  112  head vehicles
+  113  ls
+  114  grep "Annabel" people
+  115  head -n Hart Place/Buckingham Place
+  116  grep "Hart Place" street
+  117  grep "Hart Place" streets
+  118  cd streets/
+  119  grep "Hart Place" streets
+  120  cd ..
+  121  cd ..
+  122  cat hint 2
+  123  cat hint2
+  124  cat hint3
+  125  cat hint4
+  126  cat hint5
+  127  ls
+  128  cd mystery/
+  129  ls
+  130  cd streets/
+  131  head -n 173 streets/Mattapan_Street | tail -n 1
+  132  cd ..
+  133  cd ..
+  134  cat hint6
+  135  cat hint7
+  136  cat hint8
+  137  cd mystery/
+  138  ls
+  139  cd memberships/
+  140  cat Fitness_Galaxy AAA United_MilagePlus | grep -c "John Smith"
+  141  cat AAA Delta_Skymiles Museum_of_Bash_History | grep "Annabel Sun"
+  142  cat AAA Delta_Skymiles Museum_of_Bash_History | grep "Annabel Sun"
+  143  cat AAA Delta_Skymiles Museum_of_Bash_History | grep "Annabel Church"
+  144  touch file.txt
+  145  ls
+  146  cd ..
+  147  cd ..
+  148  ls
+  149  touch soltion.txt
+  150  touch solution.txt
+  151  history
+  152  git -a
+  153  git -A
+  154  ls instructions
+  155  ls
+  156  cat instructions
+  157  git status
+  158  less mystery/memberships/file.txt
+  159  rm mystery/memberships/file.txt
+  160  git status
+  161  git add solution.txt
+  162  git status
+  163  git log
+  164  git commit
+  165  git log
+  166  git status
+  167  git push
+  168  git push
+  169  git log
+  170  nano people
+  171  nano mystery/
+  172  ls
+  173  nano solution.txt 
+  174  git config --global core.editor "nano"
+  175  cd c/
+  176  cd documents/
+  177  ls
+  178  cd General Assembly/
+  179  cd General Assembly/
+  180  cd Github/
+  181  ls
+  182  cd command-line-murder-mystery/
+  183  ls
+  184  cd mystery/streets
+  185  cat -n Hart_Place | grep "40">> ..//../clues.txt
+  186  cat vehicles| grep -A 5 "L337"
+  187  cd..
+  188  cd..
+  189  cd ..
+  190  cat vehicles | q
+  191  cat vehicles | grep -A 5 "L337" | grep -A 4 -B
+  192  ls
+  193  cd vehicles/
+  194  cat vehicles | grep -A 5 "L337"
+  195  grep -A 5 "L337" vehicles | grep -B 1 -A "Honda"
+  196  grep -C "L337"
+  197  history
+  198  history >> solution.txt
