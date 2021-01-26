@@ -1,0 +1,184 @@
+1. The commands you used to get the solution 
+(hint: run history for a list of the commands you ran).
+507  git clone yet-another-git-practice-pull-request
+  508  git clone git@github.com:AlrightErin27/command-line-murder-mystery.git
+  509  ls
+  510  cd yet-another-git-practice-pull-request
+  511  ls
+  512  cd ..
+  513  cd command-line-murder-mystery
+  514  ls
+  515  code .
+  516  cat instructions
+  517  ls
+  518  cd mystery
+  519  ls
+  520  cd crimescene
+  521  open crimescene
+  522  ls -a
+  523  open crimescene
+  524  ls
+  525  cd ..
+  526  open hint1
+  527  ls
+  528  cd mystery
+  529  ls
+  530  open people
+  531  head -n 20 people
+  532  cd ..
+  533  ls
+  534  nano cheatsheet.md
+  535  ls
+  536  cd code
+  537  ls
+  538  cd week1
+  539  cd day1
+  540  ls
+  541  cd command-line-murder-mystery
+  542  ls
+  543  cd mystery
+  544  cd ..
+  545  touch solution.txt
+  546  code .
+  547  cd mystery
+  548  ls
+  549  open hint1
+  550  cat crimescene
+  551  /files$ grep "CLUE" crimescene
+  552  grep -w "CLUE"
+  553  ls
+  554  cd code
+  555  cd week1
+  556  cd day1
+  557  ls
+  558  cd command-line-murder-mystery
+  559  ls
+  560  cd solution.txt
+  561  cd mystery
+  562  ls
+  563  cat crimescene
+  564  grep -r "CLUE" *
+  565  head -n people
+  566  head -n 100 people
+  567  head -n 300 people
+  568  cat people
+  569  cat vehicles
+  570  head -n 300 people
+  571  head -n 200 vehicles
+  572  grep "Annabel" people
+  573  grep "Annabel" vehicles
+  574  grep "CLUE" crimescene
+  575  cd
+  576  ls
+  577  cd code
+  578  cd week1
+  579  cd day1
+  580  ls
+  581  cd command-line-murder-mystery
+  582  ls
+  583  cat cheatsheet.md
+  584  cd mystery
+  585  ls
+  586  grep "CLUE" crimescene
+  587  grep "Annabel" people
+  588  grep "Annabel" vehicles
+  589  head -n 173 streets/Mattapan_Street | tail -n 1
+  590  ls
+  591  grep "9437737" interviews
+  592  grep "#9437737" *
+  593  cd interviews
+  594  ls
+  595  grep "#9437737" *
+  596  cat interview-9437737
+  597  head -n 15 "Annabel"
+  598  Owner: Annabel Church
+  599  ls
+  600  cd ..
+  601  ls
+  602  head vehicles | grep "Annabel"
+  603  head people | grep "Annabel"
+  604  head vehicles > solution.txt
+  605  grep "Annabel" solution.txt
+  606  ls
+  607  ls -a
+  608  cat people | grep "Annabel"
+  609  head -n 20 people
+  610  cat vehicles | grep "Annabel"
+  611  head -n 20 vehicles
+  612  grep -A 6 "Annabel" vehicles
+  613  grep -A 10 "Annabel" vehicles
+  614  grep -A 10 "Annabel" people
+  615  grep -A -4 "Annabel" vehicles
+  616  grep -A 6 "Annabel"
+  617  ls
+  618  cd code
+  619  cd week1
+  620  cd day1
+  621  ls
+  622  cd command-line-murder-mystery
+  623  ls
+  624  cd mystery
+  625  ls
+  626  grep "Annabel" *
+  627  grep -A 5 "Annabel" vehicles | tail -n 3
+  628  tail -n 10 "Annabel" vehicles
+  629  head -n 5 "Annabel" | tail -n 5
+  630  cd vehicles
+  631  grep -B 4 "Annabel" vehicles
+  632  head -n 40 streets/Hart_Place | tail -n 4
+  633  head -n 40 streets/Hart_Place | tail -n 1
+  634  head -n 179 streets/Buckingham_Place | tail -n 1
+  635  head -n 176 streets/Haley_Street | tail -n 1
+  636  ls
+  637  cd interviews
+  638  ls
+  639  cat interview-47246024
+  640  cat interview-699607
+  641  cat interview-871877
+  642  cd ..
+  643  ls
+  644  grep -A 5 "L337" mystery/vehicles
+  645  cd ..
+  646  grep -A 5 "L337" mystery/vehicles
+  647  ls
+  648  cd mystery
+  649  ls
+  650  cd interviews
+  651  ls
+  652  cd ..
+  653  ls
+  654  grep -n "Erika_Owens" people
+  655  grep -r "Erika" *
+  656  grep - "Germuska" *
+  657  grep -r "Germuska" people
+  658  grep -r "Bowers" people
+  659  grep -r "Maher" people
+  660  head -n 98 streets/Trapelo_Street | tail -n 1
+  661  head -n 275 streets/Plainfield_Street | tail -n 1
+  662  head -n 284 streets/Dunstable_Road | tail -n 1
+  663  head -n 224 streets/Andover_Road | tail -n 1
+  664  ls
+  665  cd interviews
+  666  ls
+  667  cat interview-5455315
+  668  cat interview-29741223
+  669  cat interview-9620713
+  670  cat interview-904020
+  671  cd ..
+  672  ls
+  673  cd memberships
+  674  ls
+  675  grep -A 4 "Bowers" memberships
+  676  cat Fitness_Galaxy AAA United_MileagePlus | grep "Bowers"
+  677  cat Delta_SkyMiles AAA Museum_of_Bash_History | grep "Bowers"
+  678  cat Delta_SkyMiles AAA Museum_of_Bash_History Terminal_City_Library | grep "Bowers"
+  679  cat Delta_SkyMiles AAA Museum_of_Bash_History Terminal_City_Library | grep "Bowers" | wc -l
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. The name of the killer.
+Jeremy Bowers!
+
+Commit your solution file
+Push your changes to your forked repo
+Create a pull request to submit your deliverable
+
