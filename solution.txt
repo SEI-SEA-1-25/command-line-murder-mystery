@@ -1,0 +1,332 @@
+The killer is Jeremy Bowers
+
+
+  113  mkdir HwD1
+  114  ls
+  115  cd HwD1
+  116  git status
+  117  git clone https://github.com/gabrielbustos550/command-line-murder-mystery.git
+  118  ls
+  119  cd command-line-murder-mystery
+  120  ls
+  121  cd instructions
+  122  open instructions
+  123  cat instructions
+  124  ls
+  125  open cheatsheet.md
+  126  cd mystery
+  127  ls -a
+  128  cat crimescene
+  129  ls
+  130  cd ..
+  131  ls
+  132  cat instructions
+  133  ls
+  134  cd mystery
+  135  ls
+  136  open crimscene
+  137  open crimescene
+  138  ls
+  139  cat license
+  140  cat LICENSE
+  141  ls
+  142  cat interviews
+  143  cd interviews
+  144  ls
+  145  ls -a
+  146  cat interview-1536668
+  147  cd ..
+  148  ls
+  149  cd ..
+  150  ls
+  151  cat instructions
+  152  ls
+  153  cat LICENSE
+  154  ls
+  155  cat instructions
+  156  ls
+  157  open cheatsheet.pdf
+  158  cd mystery
+  159  ls
+  160  cd streets
+  161  ls
+  162  cd ..
+  163  ls
+  164  cat vehicles
+  165  cd ..
+  166  ls
+  167  cat hint1
+  168  cd mystery
+  169  ls
+  170  head -n 20 people
+  171  git status
+  172  ls
+  173  cd ..
+  174  ls
+  175  cat hint 2
+  176  cat hint2
+  177  ls
+  178  grep "CLUE" crimescene
+  179  cd mystery
+  180  ls
+  181  grep "CLUE" crimescene
+  182  grep "Annabel" people
+  183  cd memberships
+  184  ls
+  185  grep "Hart Place" AAA
+  186  open Museum_of_Bash_History
+  187  grep "Annabel" Museum_of_Bash_History
+  188  head -5 AAA
+  189  grep "Annabel" AAA
+  190  grep "annabel" AAA
+  191  greo "Annabel" Terminal_City_Library
+  192  grep "Annabel" Terminal_City_Library
+  193  greo "Annabel" library.txt
+  194  grep "Annabel" library.txt
+  195  grep "Annabel" delta.txt
+  196  head -5 Terminal_City_Library
+  197  grep "Annabel" Terminal_City_Library
+  198  grep "Church" Terminal_City_Library
+  199  head -5 library.txt
+  200  head -25 library.txt
+  201  head -40 library.txt
+  202  grep "Annabel" library.txt
+  203  grep "Church" library.txt
+  204  ls
+  205  cd ..
+  206  ls
+  207  cd ..
+  208  ls
+  209  cat hint3
+  210  cd mystery
+  211  ls
+  212  cd interviews
+  213  ls
+  214  cd..
+  215  ls
+  216  cd ..
+  217  ls
+  218  cd ..
+  219  ls
+  220  cat hint 3
+  221  cat hint3
+  222  cd mystery
+  223  ls
+  224  cd ..
+  225  cd mystery
+  226  ls
+  227  head -5 streets
+  228  cd streets
+  229  cd streets
+  230  ls
+  231  cd ..
+  232  ls
+  233  grep "Annabel" people
+  234  cd ..
+  235  ls
+  236  cat hint1
+  237  cat hint2
+  238  cat hint3
+  239  cd mystery
+  240  ls
+  241  head -5 people
+  242  head -10 people
+  243  cd streets
+  244  grep "Buckingham" streets
+  245  cd ..
+  246  grep "Buckingham" streets
+  247  ls
+  248  cd ..
+  249  ls
+  250  hint4
+  251  cat hint4
+  252  ls
+  253  cd mystery
+  254  ls
+  255  cd strees
+  256  cd streets
+  257  ls
+  258  cat Buckingham_Place
+  259  open Buckingham_Place
+  260  cd ...
+  261  ls
+  262  cat hint4
+  263  hint5
+  264  cat hint5
+  265  cd mystery
+  266  ls
+  267  grep "Annabel" people
+  268  head -n 173 streets/Mattapan_Street
+  269  ls
+  270  grep "Annabel" people
+  271  cd ..
+  272  ls
+  273  cat hint 5
+  274  cat hint5
+  275  head -n 173 streets/Mattapan_Street | tail -n 1
+  276  head -n 179 streets/Buckingham_Place | tail -n 1
+  277  head -n 40 streets/Hart_place | tail -n 1
+  278  head -n 176 streets/Haley_Street | tail -n 1
+  279  head -n 40 streets/Hart_Place | tail -n 1
+  280  ls
+  281  cat hint6
+  282  cat hint5
+  283  ls
+  284  cd mystery
+  285  ls
+  286  head -10 people
+  287  grep "annabell"
+  288  pwd
+  289  ls
+  290  code
+  291  cd code
+  292  ls
+  293  cd w1
+  294  ls
+  295  cd d1
+  296  ls
+  297  cd HwD1
+  298  ls
+  299  cd command-line-murder-mystery
+  300  ls
+  301  cat instructions
+  302  open cheatsheet.pdf
+  303  ls
+  304  cat hint1
+  305  cd mystery
+  306  ls
+  307  head -15 people
+  308  cd ..
+  309  ls
+  310  cd mystery
+  311  ls
+  312  grep "CLUE" crimescene
+  313  ;s
+  314  ls
+  315  grep "Annabel" people
+  316  cd ..
+  317  ls
+  318  hint2
+  319  cat hint2
+  320  cat hint3
+  321  cat hint4
+  322  cat hint5
+  323  head -173 streets/Mattapan_Street | tail -n 1
+  324  ls
+  325  cd mystery
+  326  ls
+  327  cd streets
+  328  head -n 173 streets/Mattapan_Street | tall -n 1
+  329  ls
+  330  cd Buckingham_Place
+  331  cd ..\\ncd
+  332  cd
+  333  cd ..
+  334  ls
+  335  cd gabe
+  336  ls
+  337  cd code
+  338  ls
+  339  cd w1
+  340  cd d1
+  341  ls
+  342  cd HwD1
+  343  ls
+  344  cd command-line-murder-mystery
+  345  ls
+  346  cat hint5
+  347  ls
+  348  cd mystery
+  349  ls
+  350  cd streets
+  351  head -n 173 streets/Mattapan_Street | tail -n 1
+  352  ls
+  353  cd ..
+  354  ;s
+  355  ls
+  356  grep "Annabel" people
+  357  cd ..
+  358  ls
+  359  cat hint5
+  360  cd mystery
+  361  ls
+  362  cd streets
+  363  head -n 40 streets/Hart_Place | tail -n 1
+  364  cd ..
+  365  head -n 173 streets/Mattapan_Street | tail -n 1
+  366  head -n 179 streets/Buckingham_Place | tail -n 1
+  367  head -n 40 streets/Hart_Place | tail -n 1
+  368  head -n 176 streets/Hart_Place | tail -n 1
+  369  head -n 176 streets/Haley_street | tail -n 1
+  370  ls
+  371  grep "9437737" interviews
+  372  head -10 interviews
+  373  ls
+  374  cd ..
+  375  ls
+  376  hint1
+  377  cat hint1
+  378  cd mystery
+  379  ls
+  380  cd interviews
+  381  ls
+  382  cat interview-9437737
+  383  cat interview-699607
+  384  cat interview-47246024
+  385  cat ubterview-871877
+  386  cat interview-871877
+  387  cd ..
+  388  ls
+  389  cd ..
+  390  ls
+  391  cd mystert
+  392  cd mystery
+  393  ls
+  394  head -10 vehicles
+  395  grep "Honda" vehicles
+  396  ls
+  397  grep "L337" vehicles
+  398  grep -A 5 "L337" vehicles
+  399  cd ..
+  400  ls
+  401  cd mystery
+  402  ls
+  403  head -15 vehicles
+  404  cd ..
+  405  ls
+  406  cat hint6
+  407  cat hint5
+  408  cat hint 8
+  409  cat hint8
+  410  ls
+  411  cd mystery
+  412  ls
+  413  cd memberships
+  414  ls
+  415  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Erika Owens"
+  416  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c "Erika Owwens"
+  417  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Joe Germuskas"
+  418  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep -c  "Joe Germuskas"
+  419  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Jeremy Bowers""\ncd ..\nd\n'\n'\n"
+  420  ls
+  421  cd ..
+  422  ls
+  423  cd ..
+  424  ls
+  425  cat hint
+  426  cat hint6
+  427  cat hint7
+  428  cd mystery
+  429  ls
+  430  cd memberships
+  431  ls
+  432  cd ..
+  433  ls
+  434  cat hint8
+  435  cd mystery
+  436  ls
+  437  cd memberships
+  438  ls
+  439  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Jeremy Bowersh"
+  440  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Jeremy Bowers"
+  441  cat AAA Delta_SkyMiles Museum_of_Bash_History | grep "Jacqui Maher"
