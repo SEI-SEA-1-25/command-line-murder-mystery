@@ -1,0 +1,297 @@
+ open README.md
+  888  open hint1
+  889  head -n 20 people
+  890  cd mystery
+  891  ls
+  892  grep Annabelle people
+  893  grep "Annabelle" people
+  894  grep Annabel people
+  895  ls
+  896  cd streets
+  897  grep Hart Place streets
+  898  head -n 20 people
+  899  ls
+  900  cd ..
+  901  head -n 20 people
+  902  [wd
+  903  pwd
+  904  ls
+  905  cd streets
+  906  ls
+  907  -n 40 Hart_Place
+  908  head -n 40 Hart_Place
+  909  ls
+  910  cd ..
+  911  ls
+  912  grep #47246024ls interviews
+  913  cd interviews
+  914  ls
+  915  grep #47246024ls
+  916  grep #47246024ls interviews
+  917  cat #47246024ls
+  918  cd code/w1/d1
+  919  ls
+  920  cd cli-murder-mystery
+  921  ls
+  922  cd command-line-murder-mystery
+  923  ls
+  924  cd mystery
+  925  ls
+  926  cd interviews
+  927  ls
+  928  cat interview-47246024
+  929  cd ..
+  930  cd streets
+  931  ls -a
+  932  head -n 173 Mattapan_Street
+  933  cd ..
+  934  ls
+  935  cd interviews
+  936  cat interview-9437737
+  937  cd ../streets
+  938  ls
+  939  head -n 176 Haley_Street
+  940  cd ../interviews
+  941  cat interview-871877
+  942  cd ../streets
+  943  cd ../interviews
+  944  head -n 179 cd ../streets/ Buckingham_Palace
+  945  cd ../streets
+  946  head -n 179 Buckingham_Palace
+  947  ls
+  948  cd ../interviews
+  949  cd../streets head -n 179 Buckingham_Place
+  950  cd ../streets
+  951  head -n 179 Buckingham_Place
+  952  cd ../interviews
+  953  cat interview-699607
+  954  cd ..
+  955  ls
+  956  cat vehicles
+  957  grep License Plate L337 vehicles
+  958  grep L337 vehicles
+  959  cat vehicles
+  960  grep L337 vehicles
+  961  grep -e 'Make: Honda'-e 'Color: Blue' -e 'L337' vehicles
+  962  grep 'Blue\|Honda\|L337'
+  963  cd code/w1/d1/vehicles
+  964  cd code/w1/d1/cli-murder-mystery
+  965  ls
+  966  cd command-line-murder-mystery
+  967  ls
+  968  cd mystery
+  969  ls
+  970  grep 'blue\|honda' vehicles
+  971  grep L337 vehicles
+  972  grep -i "Make: Honda" vehicles
+  973  grep 'honda\|blue\|L337' vehicles
+  974  grep -w 'honda\|Blue' vehicles
+  975  cd code/w1/d1/cli-murder-mystery/command-line-murder-mystery
+  976  ls
+  977  cd mystery
+  978  ls
+  979  grep -A 4 L337 vehicles | grep -A Honda | grep -A 2 Blue
+  980  grep 'L337\|Honda\|Blue' vehicles
+  981  man grep
+  982  egrep 'Honda\|Blue' vehicles
+  983  ls
+  984  cat -n Hart_Place | grep "40" >> ../clues.txt
+  985  cd ..
+  986  ls
+  987  cd mystery/streets
+  988  cat -n Hart_Place | grep " 40" >> ../../clues.txt
+  989  ls
+  990  cd ..
+  991  ls
+  992  cd ..
+  993  ls
+  994  cat clues.txt
+  995  cd mystery
+  996  ls
+  997  grep Annabele vehicles
+  998  ls
+  999  cd streets
+ 1000  head -n 179 Buckingham_Place
+ 1001  grep 179 Buckingham_Place
+ 1002  grep Buckingham_Place streets
+ 1003  ls
+ 1004  cd ..
+ 1005  grep Buckingham_Place streets
+ 1006  head -n 179 Buckingham_Place
+ 1007  cd streets
+ 1008  head -n 179 Buckingham_Place
+ 1009  cat -n Hart_Place | grep "40"
+ 1010  cat -n Hart_Place | grep "040"
+ 1011  cd ..
+ 1012  ls
+ 1013  ls -a
+ 1014  grep CLUE clues
+ 1015  cd ..
+ 1016  ls
+ 1017  grep CLUE clues
+ 1018  cat instructions
+ 1019  ls
+ 1020  cd mystery
+ 1021  ls
+ 1022  grep CLUE clues
+ 1023  ls
+ 1024  cd ..
+ 1025  grep CLUE clues
+ 1026  open clues.txt
+ 1027  cd ..
+ 1028  ls
+ 1029  cd command-line-murder-mystery
+ 1030  ls
+ 1031  cat instructions
+ 1032  cd crimescene
+ 1033  ls
+ 1034  cd mystery
+ 1035  cd crimescene
+ 1036  grep CLUE crimescene
+ 1037  grep CLUE crimescene >> cd ../clues.txt
+ 1038  cd ..
+ 1039  ls
+ 1040  cat clues.txt
+ 1041  git status
+ 1042  git add clues.txt
+ 1043  git status
+ 1044  git commit
+ 1045  git commit -m 'checking'
+ 1046  git status
+ 1047  ls
+ 1048  cd mystery
+ 1049  ls
+ 1050  cat -n crimescene | grep CLUE crimescene >> cd ../clues.txt
+ 1051  cd ..
+ 1052  cat clues.txt
+ 1053  open clues.txt
+ 1054  git log
+ 1055  ls
+ 1056  cd mystery
+ 1057  ls
+ 1058  echo grep CLUE crimescene >> clues.txt
+ 1059  git status
+ 1060  echo grep CLUE crimescene >> cd ../clues.txt
+ 1061  git status clues.txt
+ 1062  ls
+ 1063  git add clues.txt
+ 1064  git status
+ 1065  git commit 'These are the correct clues'
+ 1066  git commit -m 'These are the correct clues to be added'
+ 1067  cd mystery
+ 1068  ls
+ 1069  cat vehicles | grep -A 5 | "L337" | grep -A "Blue"
+ 1070  cat vehicles | grep -A 5 "L337" | grep - A 4 "Blue"
+ 1071  ls
+ 1072  ccat vehicles
+ 1073  cat people
+ 1074  ls
+ 1075  cat vehicles
+ 1076  cat vehicles | grep "L337"
+ 1077  cat vehicles | grep -A 5 "L337"
+ 1078  cat vehicles | grep -A 5 "L337" | grep -A 4 "Blue"
+ 1079  cat vehicles | grep -A 5 "L337" | grep -A 4 "Honda" | grep -A 4  "Blue" | grep -B 1 "6"
+ 1080  grep -A 5  "L337" | grep -B 1 -A 4 "Honda"
+ 1081  cd code/w1/d2/object-array-drills/
+ 1082  ls
+ 1083  cd ..
+ 1084  ls
+ 1085  cd ..
+ 1086  ls
+ 1087  cd d1
+ 1088  ls
+ 1089  cd cli-murder-mystery
+ 1090  cd mystery
+ 1091  ls
+ 1092  cd command-line-murder-mystery
+ 1093  cd mystery
+ 1094  ls
+ 1095  grep -A 5 "L337" vehicles | grep -B 1 -A 4 "Honda"
+ 1096  cat cat vehicles | grep -A 5 "L337" | grep -A 4 "Honda" | grep -A 3 "Blue" | grep -B 1 "6"
+ 1097  ls
+ 1098  grep "Erika Owens" people
+ 1099  grep "Joe Germuska" people
+ 1100  grep "Jeremy Bowers" people
+ 1101  grep "Jaqui Maher" people
+ 1102  grep "Jacqui Maher" people
+ 1103  ls
+ 1104  cd streets
+ 1105  ls
+ 1106  cat -n Dunstable_Road | grep "224"
+ 1107  cat -n Plainfield_Street | grep "275"
+ 1108  cd ..
+ 1109  ls
+ 1110  cd interviews
+ 1111  ls
+ 1112  cat interview-29741223
+ 1113  cd ..
+ 1114  ls
+ 1115  grep "Mike Bostock" people
+ 1116  cd streets
+ 1117  cat -n Andover_Road | grep "224"
+ 1118  cat -n "Tapelo_Street" | grep "98"
+ 1119  ls
+ 1120  cat -n "Trapelo_Street" | grep "98"
+ 1121  cat -n "Senders_Court" | grep "287"
+ 1122  cat -n "Senders_Court" | grep "287" >> clues.txt
+ 1123  cd ..
+ 1124  ls
+ 1125  cd interviews
+ 1126  cat interviews-290346 >> clues.txt
+ 1127  cat interview-290346
+ 1128  cat interviews-5455315 >> clues.txt
+ 1129  cat interview-5455315 >> clues.txt
+ 1130  cat interview-5455315
+ 1131  cd ..
+ 1132  ls
+ 1133  grep "Joseph Last" people
+ 1134  grep "Joseph Last" people >> clues.txt
+ 1135  cd ../streets
+ 1136  ls
+ 1137  cd streets
+ 1138  cat -n "Condor_Street" | grep "385"
+ 1139  cd code/w1/d1/cli-murder-mystery/command-line-murder-mystery/mystery
+ 1140  ls
+ 1141  cd interviews
+ 1142  cat interview-904020
+ 1143  cat interview-29741223
+ 1144  ls
+ 1145  cd ..
+ 1146  ls
+ 1147  cd memberships
+ 1148  ls
+ 1149  grep "AAA" | "Museum_of_Bash_History"
+ 1150  cat AAA | grep -f Delta_SkyMiles > ../mebers
+ 1151  cd ..
+ 1152  grep Joe members
+ 1153  grep Jeremy members
+ 1154  grep "Jeremy Bowers" Museum_of_Bash_History
+ 1155  ls
+ 1156  ls mebers
+ 1157  rm mebers
+ 1158  ls
+ 1159  cd memberships
+ 1160  cat AAA | grep -f Delta_SkyMiles > ../members
+ 1161  cd ..
+ 1162  grep Joe members
+ 1163  grep Jeremy members
+ 1164  cd memberships
+ 1165  cat Delta_SkyMiles
+ 1166  pwd
+ 1167  cd ..
+ 1168  grep -A 6 'L337.*9' vehicles | grep -B 1 -A 4 Honda | grep -B 2 -A 3 "6'" | grep -A 1 Blue | grep Owner | awk '{print $2 " " $3}' | xargs -n 2 -I {} grep {} memberships/AAA | xargs -n 2 -I {} grep {} memberships/Delta_SkyMiles | xargs -n 2 -I {} grep {} memberships/Museum_of_Bash_History\n
+ 1169  ls
+ 1170  cd ..
+ 1171  ls
+ 1172  cat README.md
+ 1173  cat hint2
+ 1174  cat hint3
+ 1175  touch solution.txt
+ 1176  open solution.txt
+ 1177  log
+-----------------------------------------------------------------------------
+
+Bad Guy: Jeremy Bowers!
+
+
+~/code/w1/d1/cli-murder-mystery
